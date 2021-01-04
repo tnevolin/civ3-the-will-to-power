@@ -48,14 +48,17 @@ All ridiculous 10% bonuses on flat terrains and water (?) are removed. All rough
 
 ## Terrain yield
 
-The game is strangely restrictive on food. Only terrain supporting further growth are grassland and flood plains and there are not many of them on a map. Everything else is progressively less interesing. There is no much land in game already and about 2/3 of it is filled by 0/1 food terrain. I don't think this is fixable for land tiles as a single unit food addition is going to break a game. However, I believe we can safely add extra food to all water tiles. That will at least sustain cities on tundras a little more.
+The game is strangely restrictive on food. Only terrain supporting further growth are grassland and flood plains and there are not many of them on a map. Everything else is progressively less interesting. There is no much land in game already and about 2/3 of it is filled by 0/1 food terrain. I don't think this is fixable for land tiles as a single unit food addition is going to break a game. However, I believe we can safely add extra food to coast tiles. That will at least sustain cities on tundras a little more.
 
-Same story with shields. I feel like desert and mountains are most unattractive land types which player tries to avoid like a plague. If not food, we should give them more shields to encourage settlements there. This will turn desert and moutain at least not inferior to hills.
+Same story with shields. I feel like desert and mountains are most unattractive land types which player tries to avoid like a plague. If not food, we should give them more shields to encourage settlements there. This will turn desert and mountain at least not inferior to hills.
 
-| terrain | food | shields | irrigation | mine |
+#### Terrain yield changes
+
+| terrain | food | shields | commerce | irrigation | mine |
 | ---- | ----: | ----: | ----: | ----: |
-| Desert | 0 | 2 | +1 | +1 |
-| Mountains | 0 | 1 | - | +3 |
+| Desert | 0 | 2 | 0 | +1 | +1 |
+| Mountains | 0 | 1 | 0 | - | +3 |
+| Coast | 2 | 0 | 2 | - | - |
 
 ## Clean wetland worker job
 
