@@ -1,0 +1,1485 @@
+;
+; Sid Meier's CIVILIZATION III: Conquests
+;
+; Miscellaneous Text Labels v1.20
+;
+; Copyright (c) 1997, 2003 by Firaxis Games, Inc.
+
+#LABELS
+Please Wait...
+Attempting to Connect to Steam.
+Finished sending saved games.
+Sending save game to player %d...
+Loading Game...
+Connecting...
+Attempting to Connect to Multiplayer Game.
+Seconds.
+Waiting for players.
+Waiting on Player #%d (%s).
+Drop Player
+Drop Self
+Direct IP
+Password:
+Leave blank or cancel for none
+Our %s defeated %s near %s.
+Our %s defeated %s.
+Our %s lost to %s near %s.
+Our %s lost to %s.
+Send
+Exit
+Ready
+Kick
+Player
+The game has been paused during resynchronizing.
+Receiving default rules from host...
+Receiving {modified} rules from host...
+The trade was completed successfully.
+has left the game.
+has resumed the game.
+pauses remain.
+has paused the game.
+You cannot conduct espionage while the game is paused.
+You cannot conduct diplomacy while the game is paused.
+Paused
+Game Limits
+Minutes
+'s_Game
+Lock Game
+Password Protect Game
+Our units are under attack!
+Our units are under attack near %s!
+Add Human Player
+The countdown has been canceled.
+The game will begin in 5 seconds.
+The game will begin in 10 seconds.
+Change your ready state to cancel countdown.
+has joined the game.
+has left the game.
+Slow
+Normal
+Fast
+STAGING WINDOW
+Cancel Refresh
+FILTERS
+HOST PERFORMANCE
+Locked
+Passworded
+< 200
+< 400
+All
+Non-Empty Games
+Non-Full Games
+Turnless
+Simultaneous
+Space Race
+Diplomatic
+Military
+Cultural
+Local Games
+MULTIPLAYER
+SESSION NAME
+TYPE
+MODE
+STATE
+PLAYERS
+PING
+Unknown
+Host
+Join
+Refresh
+Location
+Internet
+Filters
+Open
+Password
+Locked
+In Progress
+MESSAGES
+GAME RULES
+Allow Domination Victory
+Allow Space Race Victory
+Allow Diplomatic Victory
+Allow Conquest Victory
+Allow Cultural Victory
+Allow Wonder Victory
+Culturally Linked Start Loc.
+Don't Restart Eliminated Civilizations
+No Goody Huts
+Launch
+Open
+Closed
+Classic
+Standard
+Scenario
+Load Game
+Tournament
+Elimination
+Regicide
+Mass Regicide
+Victory Point Scoring
+Capture the Princess
+Reverse Capture the Flag
+Custom
+PLAYER SETUP
+We have accepted their offer
+We have not accepted their offer
+They have accepted our offer
+They have not accepted our offer
+Accept
+Do Not Accept
+None
+Computer
+Simultaneous Moves
+Turn Based
+Turnless
+Hotseat
+Play By Email
+GAME SETTINGS
+Game Type:
+Game Mode:
+Turn Timer:
+World Size:
+Barbarian Activity:
+Land Mass:
+Water Coverage:
+Climate:
+Temperature:
+Age:
+Difficulty:
+Scenario File:
+Expand
+Pollution
+Food
+Shields
+Commerce
+Luxuries
+Happy Faces
+Treasury
+Science
+Happiness
+Production
+Food Storage
+Commerce to Corruption
+Shields Wasted
+Rewind
+Back One Turn
+Stop
+Play
+Forward One Turn
+Continue
+Wake All
+Wake Transported
+Fortify All
+Conduct Espionage
+Disorder Report
+Change Production
+Hurry Production
+Convert to Specialist
+Draft Citizen
+Select Specialist
+Contact Governor
+Set Rally Point
+Clear Rally Point
+Abandon City
+View Civilopedia entry for
+Great, let's play the game.
+What's the big picture?
+Aerial View
+Show event location
+$WONDER0 created in $DATE1
+$CITY0 captured in $DATE1
+$CITY0 destroyed in $DATE1
+$CITY0 founded in $DATE1
+View Histograph by
+Sell
+SUMMARY REPLAY
+Current Date:
+Create Spy
+Establish Embassy
+Use Spy
+Use Embassy
+Save Game
+Autosave
+in
+Future Tech
+War-Time
+Date
+Space available:
+To
+Troops
+Map
+They
+Gave
+We
+Offer
+Offers
+Want
+Wants
+Give
+Gives
+Clear Table
+New
+Active
+NONE
+Please wait...
+ENTER or SPACEBAR for next turn
+Gold
+Alliance
+Embargo
+turn
+turns
+OK
+Cancel
+Novice
+Expert
+per turn
+Name:
+Formal:
+Noun:
+Adjective:
+of the
+him
+her
+his
+her
+he
+she
+Close
+River
+DISCOVERED
+Available
+Distant
+MULTIPLAYER SETUP
+Players
+Done
+Not Available
+OBSOLETE
+to
+Save Files
+Map Files
+Zoom
+Title
+Description
+Gender
+Nation's Gender
+Activate
+Wake
+Contact
+Terrain Info
+Back
+Set Continental Rally Point
+Clear Continental Rally Point
+UNTITLED
+Male
+Female
+Preferences
+Adv. Preferences
+Warning Preferences
+Automation Preferences
+Audio/Visual Preferences
+30-50% of surface
+Strong (Rolling and flat terrain)
+Sparse (light rainfall)
+Rare
+CUSTOM GAME OPTIONS
+Max Players
+Global Difficulty Level
+Planet Size
+Ocean Coverage
+Erosive Forces
+Native Life Forms
+Cloud Cover
+Toggle
+Load Map
+Load Scenario
+Load Game
+Random
+MAP DEFINED
+SAVE
+MAKE READY
+MAKE NOT READY
+LAUNCH GAME
+Type of Game
+New Game w/ Random Map
+Map Preferences
+Restore Defaults
+More
+Passwords Unsatisfied
+BC
+AD
+This deal will last until war is redeclared.
+This deal may be canceled peacefully after 20 turns.
+This deal will last for 20 turns.
+AI Aggression
+Least Aggressive
+Less Aggressive
+Normal
+More Aggressive
+Most Aggressive
+Militaristic
+Commercial
+Expansionist
+Scientific
+Religious
+Industrious
+Agricultural
+Seafaring
+Flavor1
+Flavor2
+Flavor3
+Flavor4
+Flavor5
+Flavor6
+Flavor7
+and
+Civilopedia
+The
+Slaves
+Tile Information
+Food:
+Shields:
+Gold:
+Road
+Railroad
+City
+Irrigation
+Village
+No information available
+Reg:
+Cont:
+Page, Tile:
+Site Val:
+CityNet
+-None-
+Art tile num:
+Mine
+at War
+at Peace
+in treasury
+extra
+gold
+Unhappiness Causes
+Abstain
+abstains
+votes for
+units
+CIVILOPEDIA
+Main
+Game Concepts
+City Improvements
+Governments
+Civilization Advances
+Natural Resources
+Worker Actions
+Terrain
+Units
+Great Wonders
+Small Wonders
+Tribes
+Index
+Bonus Resources
+Luxury Resources
+Strategic Resources
+Resource Index
+Invalid Entry
+REQUIRES
+ALLOWS
+Effects
+Previous
+TILE BONUS
+Spaceship Component(s)
+Advance
+Nothing
+Worker Efficiency
+Hurry Method
+Cannot hurry
+Force citizens to work harder
+Pay citizens to work harder
+Corruption and Waste
+Minimal
+Nuisance
+Problematic
+Rampant
+Catastrophic
+Communal
+War Weariness
+Citizens do not get unhappy
+Citizens get unhappy
+Citizens get very unhappy
+Required Government
+Cost
+Maintenance
+Culture
+Made Obsolete By
+Grassland with Shield
+Fresh Water Lake
+STATISTICS
+YIELD
+Base Tile Yield
+Movement Cost
+Irrigation Bonus
+Mining Bonus
+Road Bonus
+Defensive Bonus
+Build Colony
+Base Turns to Complete
+Turns Left:
+Stats
+Attack
+Defense
+Movement
+Operational Range
+Population Cost
+Bombard
+Range
+Rate of Fire
+Anti-Air Defense
+Transport Capacity
+Air Superiority Radius
+Upgrades To
+Abilities
+INVALID
+City Imp's
+Actions
+Advances
+Gr Wonders
+Sm Wonders
+Govts
+Resources
+MODULES
+COMPONENTS
+STRUCTURAL
+Needs
+LAUNCH
+Exit
+COMPLETE
+assign
+No city may build
+Cities
+items
+item
+Queue slot
+SS
+^We need a spy with the
+total
+Civilization
+Civilizations
+complete
+in progress 
+View Space Race
+HISTOGRAPH
+SCORE
+TOP 5
+CITIES
+Show
+Power
+Score
+Victory Points
+Victory Status
+Scale by
+Turns
+Years
+Current Turn:
+Your Score:
+Summary:
+Happy Citizens:
+Content and Specialist Citizens:
+Territory:
+Future Tech.:
+Averaged Score:
+World Ranking:
+Points by Location:
+Points by Unit Capture:
+Points by Wonder:
+Points by Advance:
+Points by Unit Kill:
+Points by Conquest:
+Your Victory Points:
+World Victory Points:
+Power is an amalgam of cities, gold, culture, advances, resources, military strength, nuclear weapons, and wonders.
+Culture is a sum of the cultural value of all of your cities.
+Score is used to determine the winner when time runs out.  Your overall score is the average of your scores on each turn.
+Score as calculated on just this turn.  Will be averaged in to your overall score.
+Victory Points are points received from the number of princesses captured or from the number of victory locations captured.
++
+>
+<
+Golden Age
+Advisors
+Main Menu
+{Z}oom In
+{Z}oom Out
+Locate City
+You have no cities!
+You have no cities in range!
+You have no cities on this continent!
+You have no cities on this ocean!
+no city
+Rename
+Native American Architecture 
+European Architecture 
+Greco-Roman Architecture 
+Middle Eastern Architecture 
+East-Asian Architecture
+Enter Seed: 
+CHOOSE YOUR WORLD
+WORLD SIZE
+BARBARIANS
+No Barbarians
+Sedentary
+Roaming
+Restless
+Raging
+LAND MASS AND WATER COVERAGE
+80% Water
+70% Water
+60% Water
+Pangaea
+Continents
+Archipelago
+CLIMATE
+Arid
+Normal
+Wet
+TEMPERATURE
+Warm
+Temperate
+Cool
+AGE
+3 Billion
+4 Billion
+5 Billion
+HOTSEAT SETUP
+PLAYER SETUP
+YOUR CIVILIZATION
+Random
+DIFFICULTY
+(Easiest)
+(Hardest)
+YOUR RIVALS
+RULES
+Allow Domination Victory
+Allow Space Race Victory
+Allow Diplomatic Victory
+Allow Conquest Victory
+Allow Cultural Victory
+Allow Wonder Victory
+Culturally Linked Start Loc.
+Respawn AI Players
+Preserve Random Seed
+Accelerated Production
+Elimination
+Regicide
+Mass Regicide
+Victory Point Scoring
+Capture the Princess
+Allow Cultural Conversions
+Reverse Capture the Flag
+Allow Scientific Leaders
+Default Rules
+All Random
+a Domination Victory
+a Space Race Victory
+a Diplomatic Victory
+a Conquest Victory
+a Cultural Victory
+a Wonder Victory
+a Victory Point Victory
+a humiliating loss
+a humiliating Domination loss
+a humiliating Space Race loss
+a humiliating Diplomatic loss
+a humiliating Conquest loss
+a humiliating Cultural loss
+a humiliating Wonder loss
+a humiliating Time Limit loss
+a humiliating Victory Point loss
+an embarrassing defeat
+an embarrassing Domination defeat
+an embarrassing Space Race defeat
+an embarrassing Diplomatic defeat
+an embarrassing Conquest defeat
+an embarrassing Cultural defeat
+an embarrassing Wonder defeat
+an embarrassing Time Limit defeat
+an embarrassing Victory Point defeat
+HISTORICAL                  RANKING
+History will remember you as:
+the Worthless
+the Pathetic
+the Foolish
+the Meek
+the Cruel
+the Terrible
+the Fair
+the Strong
+the Clever
+the Conqueror
+the Lion-Hearted
+the Great
+the Wise
+the Magnificent
+Get me a new team!
+Maybe YOU could be on their team next time?
+How would YOU have liked being locked in an alliance with these guys?!
+No - seriously - I was supposed to have been on the OTHER team.
+Nothing like being locked to a LOSER!
+WE are the champions.
+What a GREAT alliance!
+You are the leader that this alliance always needed.
+Something's under my foot. Wait, it's the other team!
+With this alliance, we can win ANYthing!
+Go back to chieftain!
+Don't worry "champ," you'll get 'em next time. 
+You look so lovely when you lose.
+We crushed you, saw you driven before us, and hear the lamentation of your people!
+Consider your lawn MOWED!
+All you're leading is Jack and spit.  Jack just left town.
+All your base are belong to us!
+Gimme an 'L!'  Gimme an 'O!' Whatever... LOSER!
+Told!
+Aww... was that your last city?  Maybe we should give it back...
+There's no shame in retiring... none at all... really... no, really...
+If in times of trouble, you run into a wall... bounce off, and run back into it.
+What's that smell?  Did someone step in something?
+You will be forever remembered as a great and noble... well, I guess not...
+If you practice a little more, I might break a sweat next time.
+What's the matter?  Are we too rough?
+Hey speed demon!  Where're you running off to in such a hurry?
+Yeah, you'd better run away!
+Only human...
+One day, there will come a player unafraid to battle it out to the bitter end...
+Luck, it was all luck!
+There is no dishonor in losing to a worthy foe... I should be ashamed.
+Congratu - ma - freaking - lations!
+Every dog has his day, I guess...
+Oh yeah?  You and what army?  Oh... right.
+Next time, I'll play [without] one arm tied behind my back.
+What! I couldn't have possibly lost... you must have cheated!
+Quit gloating, let's go again!
+I bet you 100 gold that you can't do it again!
+Two words:  Wait 'til next time!
+You're the big dog now!
+What a splendid display of tact and strategy!
+A plate of hero cookies to you!
+You played very well, but I will not be so lenient next time.
+Our bards will write ballads of your deeds and accomplishments.
+Esteemed colleague, I congratulate you on your victory.
+Who's the big winner today?  You are!  That's right, you!
+It was an honor to play against so fine an opponent.
+It seems the fates favor you today.  'Twas a good game.  I'll be waiting for the next one.
+Wow!  I was fabulous!  Amazing!  Phenomenal!  Fantastic!  Outstanding!  Exceptional!   And still you won...
+I got trounced, and all these other clowns just watched...
+Have you no mercy?  I was already defeated, there was no need to eliminate me.
+Now let me ask ya this,  let me ask ya this... Can you kick... oh, I guess so.
+My doctor says I can play you again in 60 seconds or so... Beware!
+Well, I can't be blamed.  I never even met you!
+You'd best feel lucky that the world was so concentrated on taking me out that they forgot about you...
+Real warriors don't need allies to win!
+I thought cultural assimilation was supposed to be painless!
+Doh!  I thought we were [supposed] to kick your people off the planet...
+All right, now step over [this] line...
+What do you mean the game's over???  I'm still standing!  No one can conquer me!
+Domination, shmomination!  I refuse to be defeated!
+You wasted your time killing me off, and look what it got you.
+Together we could have survived the onslaught.  We could have thrived.
+You should have saved me.  I would have voted for you!
+He who stands alone in the international community loses.
+All the armies in the world cannot help the uncultured.
+The pen may be mightier than the sword, but my sword is longer than your pen is.
+I'm sorry, were you out of cities?   My bad...
+Owned!
+Sure you can kill me off, but when the going gets tough, look who gets going!
+A real tough one here... fight's the good fight when he's stronger, but bails out at the first sign of trouble.
+Would that I could have run away a spineless coward, rather than face the steel of my enemies.
+Close the door on your way out.
+Default Setting for New Cities
+© 2005 Take-Two Interactive Software and its subsidiaries. All rights reserved. 
+Sid Meier’s Civilization III, 2K Games, the 2K Games logo, and Take-Two Interactive Software are all 
+trademarks and/or registered trademarks of Take-Two Interactive Software, Inc. 
+Developed by Firaxis Games. Firaxis Games is a trademark of Firaxis Games, Inc.
+Colony
+City View
+Next City
+Previous City
+Configuring scenario...
+Initializing game...
+Initializing players...
+Configuring barbarians...
+Configuring human player...
+Configuring AI player
+Customizing player info...
+Assigning team colors...
+Map Scroll Speed
+Auto-Save
+Capital Governor is Default for New Cities
+Always Wait at End of Turn
+Show Civilopedia Book Cursor
+Tutorial Mode
+Show Wonder Initiation Pop-Up
+Show Civil Disorder Pop-Up
+Show Food and Shields on Map
+Show City Pop. Dropshadow
+Ask for Build Orders after Unit Construction
+Color Blind Help
+Disable Population Limit Warnings
+Always Renegotiate Deals
+Show Advanced Unit Action Buttons
+Show Fewer Multiplayer Popups
+Do not auto-select units in Multiplayer
+Show our Manual Moves
+Show our Automatic Moves
+Show Friend Moves
+Show Enemy Moves
+Show Units over Cities
+Show Team Color Disc
+Animate Battles
+Animate our Manual Moves
+Animate our Automatic Moves
+Animate Friend Moves
+Animate Enemy Moves
+Cancel Orders for Friendly Combat Unit
+Cancel Orders for Enemy Combat Unit
+Always Build Previously Built Unit
+All Sounds On
+Music On
+Sound FX On
+Save Prefs
+PREFERENCES
+GAME
+UNITS
+AUDIO
+More Choices (Shift for up/down) 
+^[The game will now exit.]
+ESPIONAGE
+Select Mission Type
+Select Mission
+Select City
+Operational Costs
+Assets
+Diplomatic Advance:
+Espionage Advance:
+Intelligence Center:
+Spy Experience:
+Unmet
+Spy
+Immediately
+Carefully
+Safely
+Execute
+No
+Yes
+Angry
+Neutral
+Happy
+Show Expression
+Jan.
+Feb.
+Mar.
+Apr.
+May
+Jun.
+Jul.
+Aug.
+Sep.
+Oct.
+Nov.
+Dec.
+$NUM0 $BCAD0
+$MONTH1, $NUM0 $BCAD0
+Week $NUM1, $NUM0 $BCAD0
+Airfield
+Build Airfield
+Radar Tower
+Build Radar Tower
+Outpost
+Build Outpost
+Barricade
+Build Barricade
+Play Last World
+New Game
+Quick Start
+Load Game
+Conquests!
+Civ-Content
+Hall of Fame
+Preferences
+Multiplayer
+Credits
+Exit
+$KING0 of the $CIVNOUN1 killed in $DATE2
+$CIVNOUN0 $<0:captures:capture> a princess in $DATE1
+Princess of $CIV0 rescued in $DATE1
+$CIVNOUN0 $<0:picks:pick> up a princess in $DATE1
+Victory point location secured by $CIV0 in $DATE1
+Victory point location lost by $CIV0 in $DATE1
+A great event for $CIV0 has produced the Great Leader, $LEADER1, in $DATE2
+$CIV0 enters a Golden Age in $DATE1
+City Elimination Max
+One City Culture
+Civilization Culture
+Percent Terrain
+Percent Population
+Wonder Multiple
+Defeat Multiple
+Advance Multiple
+City Conquest Multiple
+Victory Point Location
+Special Unit Capture
+Gold For Special Unit Capture
+CIV III: CONQUESTS -- VICTORY STATUS SCREEN
+VICTORY CONDITION
+To Win
+Your Rivals
+Top Rival
+Domination
+% of world population:
+Your % of world population:
+% of world area:
+Your % of world area:
+Cultural
+One city
+Entire civilization
+Score
+(tie-breaker at time limit)
+Current score:
+Victory Points
+Limit
+Current victory points:
+Space Race
+Parts Built:
+Diplomatic
+Elected as leader
+The United Nations built by:
+no one
+Conquest
+Eliminate all rivals
+Rivals still alive:
+TIME LIMITS
+Wonder
+Total to build:
+Wonders built:
+Total built by rivals:
+Turns
+Turns in game:
+Current Turn:
+INSTANT ELIMINATION
+Elimination
+Lose cities:
+Cities lost:
+Regicide
+Lose kings: 1
+Lose kings: All
+Kings left:
+AI:
+Bombardment failed.  Cannot bombard until current combat is resolved.
+
+#DRIVE_READ_ERROR_PTW
+Please Insert Civilization III: Complete Play Disc into CD Drive
+DRIVE READ ERROR
+
+#INSTALLATION_ERROR_PTW
+No Civilization III: Complete Installation Detected
+INSTALLATION ERROR
+
+#TECH_CIVILOPEDIA_LINKS
+Advance
+Unit Type
+Improvement
+Small Wonder
+Great Wonder
+Orders
+Citizen
+Government
+
+#TECH_BUTTON_LABELS
+<- Prev
+View previous era
+Next ->
+View next era
+
+#CITIZEN_DESCRIPTIONS
+Happy $TYPE0 ($CIV1)
+Content $TYPE0 ($CIV1)
+Unhappy $TYPE0 ($CIV1)
+Resisting $TYPE0 ($CIV1)
+$TYPE0 ($CIV1)
+
+#CITIZEN_UNHAPPY_REASONS
+"I am unhappy for no reason whatsoever. This is most likely a bug..."
+"It's just way too crowded."
+"All we are sayin' is give peace a chance!"
+"Stop the aggression against our mother country!"
+"All the propaganda surrounding your regime is confusing."
+"No More Draft! Hell, No, We Won't Go!!"
+"We cannot forget the cruel oppression you have bore down upon us."
+"Some improvements in this city are annoying"
+"Some improvements in another city are annoying"
+
+#ADVISORS
+Domestic
+Trade
+Military
+Foreign
+Cultural
+Science
+Advisor
+
+#ADVISOR_MOODS
+Happy
+Angry
+Sad
+Surprised
+
+#FOREIGN_ADVISOR
+Unknown
+The
+Government
+We
+They
+are
+at peace
+at war
+With
+have a
+against the
+Mutual Protection Pact
+Military Alliance
+Trade embargo
+Treaties
+Trades
+Details
+FOREIGN ADVISOR
+Active
+Potential
+Embargo
+Against
+War
+Peace
+Mutual Protection
+Right of Passage
+(
+)
+gracious
+polite
+cautious
+annoyed
+furious
+of
+Select All
+All Off
+We have limited knowledge of the
+military
+The best unit the
+military has that we know about is
+with us
+You must select an opponent for which to view active deals.
+You have no active deals with this opponent.
+Locked Alliance
+
+#FOREIGN_ADVISOR_BUTTONS
+More Civs
+More Civilizations Encountered
+
+#DOMESTIC_ADVISOR
+Income:
+From cities:
+From other civs:
+From taxmen:
+From interest:
+Expenses:
+: Corruption
+: Maintenance
+: Unit costs
+: To other civs
+TOTAL:
+Growing.
+Breaking even.
+Shrinking!
+Researching:
+Producing
+turns
+turn
+Population
+Cities
+.
+(
+)
+DOMESTIC ADVISOR
+: Science
++
+-
+Treasury:
+Gold
+: Entertainment
+Food Eaten.Stored
+Shields Wasted.Produced
+Happy.Content
+Corruption.Commerce
+Corruption
+Maintenance
+Science
+Treasury
+Net
+Gain:
+Loss:
+!
+thrives
+is growing slowly
+is not growing 
+is starving
+happy
+unhappy
+content
+Government
+Mobilization
+Normalcy
+War Time
+We need an aqueduct to continue growing.
+We need a hospital to continue our city's growth.
+
+#MILITARY_ADVISOR
+Unit in production
+The Army of
+Military Intelligence
+Army
+At War
+At Peace
+View by
+City
+Unit
+|
+We know of no other civilizations
+We only know what our troops report.
+We need a spy to view troop locations.
+turns
+units
+gold/turn
+Disband Unit
+Fortify Unit
+Upgrade Unit to
+(
+gold
+)
+Total Units
+     Allowed Units
+Army Support Cost
+MILITARY ADVISOR
+Available Leader
+*
+= Military/Industrial Center
+We have:
+An Embassy
+A Spy
+View Civilopedia entry for
+Captured Units (0 gold)
+Lost Units
+Units the
+have captured
+have lost
+
+#MILITARY_ADVISOR_BUTTONS
+->
+<-
+Up
+Down
+This-a-way
+That-a-way
+Previous
+Next
+
+#CULTURE_ADVISOR
+Culture
+Rating
+=
+Improvements
++
+Wonders
+ 
+Influence
+yes
+no
+Art
+of
+Built in
+The
+are
+our culture.
+Our people have developed
+an
+a
+culture.
+Cities
+culture value
+Our Total Culture Value:
+Value:
+/turn
+CULTURAL ADVISOR
+Cultural Value:
+Current Date:
+,
+needed to expand
+
+#CULTURE_ADVISOR_BUTTONS
+Up
+This-a-way
+Down
+That-a-way
+
+#TRADE_ADVISOR
+TRADE ADVISOR
+Trade Agreements
+Local
+Import
+Export
+Trading Cities
+cities
+Cities
+Unconnected Cities
+network
+Are trading with
+Can trade with
+Cannot Trade With
+Alas, we know of no one with whom to trade
+Land Route
+Sea Route
+We need a
+to
+Near
+Fine
+We are at war with the
+We have an embargo against the
+has a trade embargo against us
+
+#TRADE_ADVISOR_BUTTONS
+Up
+This-a-way
+Down
+That-a-way
+
+#SOREN_ADVISOR
+Unknown
+The
+Government
+We
+They
+are
+at peace
+at war
+with
+have a
+against the
+mutual protection pact
+military alliance
+trade embargo
+
+#SOREN_ADVISOR_BUTTONS
+->
+Next
+<-
+Previous
+
+#WONDER_WIN
+WONDERS OF THE WORLD
+Owned by:
+Constructed in:
+Located in:
+Being Constructed by the
+
+#CAMPAIGN_RECORD
+CAMPAIGNS
+Hall of Fame
+Exit
+Campaign
+Civilization
+Difficulty
+Score
+Not Yet Victorious
+Next
+Play the Next Campaign
+1 Mesopotamia
+2 Rise of Rome
+3 Fall of Rome
+4 Middle Ages
+5 Mesoamerica
+6 Age of Discovery
+7 Sengoku
+8 Napoleonic Europe
+9 WWII in the Pacific
+
+
+#HALL_OF_FAME_WIN
+HALL OF FAME
+List high scores for
+Everyone
+:
+,
+.
+None
+Domination
+Military
+Cultural
+Diplomatic
+Space Race 
+Retired
+Rank
+Score
+Name
+Civilization
+Difficulty
+Victory Type
+All Leaders On
+All Leaders Off
+Close (Art goes here?)
+(Lost)
+(Won)
+
+#GOVERNOR_WIN
+City Governor
+General
+Production
+Manage citizen moods
+Emphasize Food
+Emphasize Production
+Emphasize Commerce
+Manage Production
+Never build Wonders
+Never build Small Wonders
+Produce Offensive Ground Units
+Produce Defensive Ground Units
+Produce Artillery
+Produce Settlers
+Produce Workers
+Produce Naval Units
+Produce Air Units
+Produce Growth
+Produce Production
+Produce Happiness
+Produce Science
+Produce Wealth
+Produce Trade
+Produce Exploration
+Produce Culture
+Never
+Sometimes
+Often
+This City
+All Cities
+Continental Cities
+This City
+All Cities
+Continental Cities
+in
+No
+Yes
+
+#DEMO_WIN
+TOP 5 CITIES
+DEMOGRAPHICS
+Approval Rating
+Population
+GNP
+Mfg. Goods
+Land Area
+Literacy
+Disease
+Pollution
+Life Expectancy
+Family Size
+Military Service
+Annual Income
+Productivity
+%
+$
+million
+megatons
+square miles
+tons
+years
+children
+per capita
+Rank
+
+#AUDIOPREFS
+Sound Effects Volume
+Sound Effects On/Off
+Music Volume
+Music On/Off
+Master Volume
+All Sounds On/Off
+Audio Preferences
+
+#AUDIOPREF_RADIO
+Audio Preferences
+
+#comment The interface labels are for the interface buttons.  They are abbreviations.  Here is the key, translate as appropriate:
+#comment First two for minimap box
+#comment G = Geography
+#comment T = Terrain
+#comment Rest for unit info box
+#comment D = Diplomacy
+#comment E = Espionage
+#comment P = Palace 
+#comment V = Victory (used to be Histograph)
+#comment SS = Spaceship
+#INTERFACE_LABELS
+G
+T
+D
+E
+P
+V
+S
+I
+Show Geography
+Show Territory
+Start Diplomacy
+Espionage
+Palace View
+Victory Status Screen
+View Spaceship Progress
+Scenario Introduction
+Previous Unit ([[ or Shift-[[)
+Next Unit (]] or Shift-]])
+Cycle Units 
+Cycle Units By Type
+Previous City (. or Shift-.)
+Next City (, or Shift-,)
+Cycle Cities 
+Cycle Disorderly Cities
+Move Units In Stack (X, J)
+Move Units of Same Type^in Stack (Ctrl-X, Ctrl-J)
+
+#UNIT_ACTIONS
+Hold (Spacebar): Skip turn
+(W)ait
+(F)ortify
+(D)isband
+(G)o to: Select destination
+(E)xplore
+Sentry (Y)
+(L)oad
+Un(L)oad
+Airlif(T): Choose new airbase (Shift-T)
+(P)illage Improvement (Shift-P)
+(B)ombard: Select a target
+(A)irdrop: Select a landing zone
+(B)uild army
+(H)urry city production (Ctrl-H)
+(U)pgrade unit
+Re(s)cue Princess (Shift-S)
+unused control
+Sacrifice
+Increase Scientific Output
+(B)uild Colony
+(B)uild City
+Build (R)oad
+Build (R)ailroad (Shift-R)
+Build (F)ortress (Ctrl-F)
+Build (M)ine
+(I)rrigate
+(C)lear Forest (Shift-C)
+(C)lear Wetlands (Shift-C)
+Pla(n)t Forest
+(C)lear Damage (Shift-C)
+(A)utomate
+Join City (B)
+Build Airfield (Ctrl-Shift-A)
+Build Radar (T)ower (Ctrl-T)
+Build (O)utpost (Ctrl-O)
+Build Barricade (Ctrl-F)
+(B)ombing Mission: Choose a target
+(R)econ Mission: Pick a recon zone
+Air (S)uperiority Mission: Control the skies
+(R)e-base Mission (Shift-R): Choose a new base
+(P)recision Strike: Pick an enemy city
+Sentry (Enemy only) (Shift-Y)
+Automate:^Bombard (Shift-B)
+Colony to (Ctrl-B)
+Road to (Ctrl-R)
+Rail to (Ctrl-Shift-R)
+Automate:^Build Trade (Ctrl-N)
+Automate:^Irrigate to Nearest City (Ctrl-I)
+Automate:^Clear Forest (Shift-F)
+Automate:^Clear Wetlands (Shift-W)
+Automate:^Clear Damage (Shift-D)
+Automate:^This City Only (Shift-I)
+Automate:^No (A)ltering (Shift-A)
+Automate:^Bombing (Shift-B)
+Automate:^Precision Bombing (Shift-P)
+Automate:^No Altering/This City Only (Ctrl-Shift-I)
+(G)o to City: Select destination (Ctrl-Shift-G)
+Re(n)ame unit (Shift-N)
+ 
+#CS_SECTION_LABELS
+STRATEGIC RESOURCES
+IMPROVEMENTS
+PRODUCTION
+FOOD
+COMMERCE
+LUXURIES
+CULTURE
+POLLUTION
+per turn
+Growth in
+Complete in
+turn
+turns
+%
+CHANGE
+HURRY
+GRANARY
+SHORTAGE
+- Zero Growth -
+
+#CS_CITY_NAME
+Founded: 
+POP
+GOLD
+
+#CS_GARRISON
+GARRISON
+Activate
+Fortify
+Disband
+Upgrade to 
+
+#CS_QUEUE
+QUEUE (hold 'Shift' to add)
+QUEUE ACTIVE
+Empty Slot
+
+#CS_CULTURE_PANEL
+per turn
+Total
+
+#CS_MOUSEOVER
+Food Eaten
+Food Stored
+Shields Produced
+Shields Wasted
+Commerce to Treasury
+Commerce to Science
+Commerce to Entertainment
+Commerce to Corruption
+Food Storage Box
+Production Box
+Treasury
+Science
+Happiness
+
+#SCENARIO_WINDOW_LABELS
+Cancel
+OK
+--No Preview Available--
+Generating Preview...
+Players:
+Map Size:
+*Base Rules Modified. Please Consult Civilopedia.
+This scenario uses standard game rules.
+*All game settings allowed.
+*All victory conditions allowed.
+LOAD SCENARIO
+
+
+# ; This line must remain at end of file

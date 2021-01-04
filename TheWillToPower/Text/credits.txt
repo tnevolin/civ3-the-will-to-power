@@ -1,0 +1,413 @@
+;
+; Sid Meier's Civilization III
+;
+; Credits
+;
+; Copyright (c) 2000, 2003 by Firaxis Games, Inc.
+;
+
+#CREDITS
+CREATOR OF CIVILIZATION &
+DIRECTOR OF CREATIVE DEVELOPMENT - FIRAXIS GAMES
+
+Sid Meier
+
+
+
+
+
+LEAD DESIGNER - CIVILIZATION III
+CEO & PRESIDENT - FIRAXIS GAMES
+
+Jeffery Briggs
+
+
+
+
+
+DESIGNER & AI PROGRAMMER - CIVILIZATION III
+
+Soren Johnson
+
+
+
+
+
+
+
+
+
+
+------------------------------ CIVILIZATION III: CONQUESTS ------------------------------
+
+
+Published by:
+ATARI, INC.
+
+
+Developed by: 
+FIRAXIS GAMES & BREAKAWAY GAMES
+
+
+
+
+
+FIRAXIS GAMES:
+ 
+PRODUCER
+Jesse Smith
+
+PRODUCTION ASSISTANT &
+QUICKCIV DESIGNER
+Ed Piper
+
+PRODUCTION ASSISTANT
+Jesse Fletcher
+
+DIRECTOR OF SOFTWARE DEVELOPMENT
+Dave Evans
+
+PROGRAMMERS
+Pat Dawson
+Mike Breitkreutz
+
+ART DIRECTOR
+Mike Gibson
+
+ARTISTS
+Steve Chao
+Greg Foertsch
+Mike Bates
+Jerome Atherholt
+Ed Lynch
+Russell Vaccaro
+Dorian Newcomb
+
+MUSIC & SOUND ENGINEERS
+Mark Cromer
+Michael Curran
+
+GAME DESIGN
+Jeffery Briggs
+Soren Johnson
+Jesse Smith
+Ed Piper
+Jesse Fletcher 
+
+DIRECTOR OF MARKETING
+Lindsay Riehl
+
+PUBLIC RELATIONS MANAGER
+Kelley Gilmore
+
+WEBMASTER & ORIGINAL DESIGN - SENGOKU
+Michael Fetterman
+
+QUALITY ASSURANCE MANAGER
+Barry Caudill
+
+IT MANAGER
+Josh Scanlan
+
+
+
+
+
+BREAKAWAY GAMES:
+
+PRODUCER
+Ed Beach
+
+PRODUCTION ASSISTANTS
+Dan Hinks
+Melissa Sawicki
+
+ART DIRECTOR
+Steve Langmead
+
+LEAD ARTIST
+Mike Phillips
+
+ART
+Bill Ahlswede
+Stephen Varga
+Russell Vaccaro
+Todd Brizzi
+Erroll Roberts
+Adam Chacey
+Tiffany Tan
+
+PROGRAMMING
+Andy House
+Norb Timpko
+
+DESIGN
+Charlie Kibler
+Robert Waters
+Ed Beach
+Ananda Gupta
+Bob Taylor
+
+QUALITY ASSURANCE MANAGER
+Melissa Sawicki
+
+QUALITY ASSURANCE
+Ananda Gupta
+Meredith Meadows
+Bob Taylor
+Grant Frazier
+Dan Hinks
+Shaun Seckman
+
+NETWORKING SUPPORT
+Dan Hinks
+
+SPECIAL CONTRIBUTIONS
+Jan van der Crabben (Thamis) - Rise/Fall of Rome maps, Ostrogoth names
+Katya Whitmeyer (Uma Palata) - Russian city names
+Michael Soracoe (Sulla) - Hun history
+Richard F. Jensen (Kal-el) - Age of Discovery map
+
+EXTRA-SPECIAL CONTRIBUTIONS
+Matthew Beach
+Adam Bryant
+Steve Cole
+Ben Knight
+Karen Moody
+Natalya Vaiman
+Bob McNamara
+
+
+
+
+
+FIRAXIS GAMES SPECIAL THANKS:
+
+PRODUCTION
+Steve Martin
+Michael Fetterman
+Jeff Morris
+Dan Magaha
+
+PROGRAMMING
+David McKibbin
+
+ART
+Alex Kim
+Mike Bazzell
+
+DESIGN
+The Fans & Fan Sites
+The Dedicated Public Beta Testers
+Paul Murphy
+
+QUALITY ASSURANCE
+The Public Beta Testers
+
+ABSOLUTE QUALITY
+-Alpha-
+Jeremiah Sanders 
+Clint McCaul 
+Nate Briggs 
+Paul Stone
+-Beta-
+Dave Schmitt 
+Jennifer Gasioworski "Chieftess" 
+Scott Kramperth 
+Mike Andrion 
+Chris Baguley "T-bag" 
+Matt Kutrik "Kutch" 
+Eric Konzal "Da Cap'm" 
+James Copestake
+Calvin Grove
+Troy Kupisch
+
+THE ENTIRE FIRAXIAN TEAM
+
+OUR SUPPORTIVE FAMILY & FRIENDS 
+
+
+
+
+
+ATARI, INC:
+
+SENIOR PRODUCER
+Thomas J. Zahorik
+
+EXECUTIVE PRODUCER
+Bob Welch
+
+DIRECTOR OF TECHNOLOGY
+Paul Hellier
+
+MARKETING PRODUCT MANAGER
+Jeff Foley
+
+GENERAL MANAGER
+John Hurlbut
+
+Q.A. SENIOR MANAGER
+Kurt Boutin
+
+Q.A. MANAGERS
+Bill Carroll
+Randy Lee
+
+LEAD TESTER
+Jennifer Kaczor
+
+ASSISTANT LEAD TESTER
+Mike Krapovicky
+
+TESTERS
+Phil Allers, Greg Amato, Jay Brown,
+Brett Casta, Jeff Desharnais, Tim Franson,
+Robb Gagne, Bobby Gilkerson, Shawn He,
+Joseph Howard, Roy Husson, Erik Jeffery,
+Clif McClure, Nick Lazzara, Dani McDowell,
+Jessika Murphy, Mike Murphy, Jay Odachowski,
+Tad Pantaleoni, Chris Parsons, Sean Pelkey,
+Brett Penkul, Scott Rollins, Mike Romatelli,
+Andrew Roques, Brian Scott, Tobias Seltsam,
+Shaun Snodgrass, Jared Sorensen, Conor Sullivan,
+Paul Swedis, Joe Taylor, Jeffrey Tolleson,
+Ian Toltz, Tam Vo, Chris Watson, Kevin Witham
+
+DIRECTOR OF MARKETING
+Peter Matiss
+
+MANAGER OF CREATIVE SERVICES
+Steve Martin
+
+MANAGER OF EDITORIAL & DOCUMENTATION SERVICES
+Elizabeth Mackney
+
+GRAPHIC DESIGNER
+Paul Anselmi 
+
+COPYWRITER
+Kurt Carlson 
+
+
+
+
+
+ADDITIONAL DESIGN & QUALITY ASSURANCE:
+
+THE INCREDIBLY DEDICATED PUBLIC BETA TESTERS
+
+Thank you.
+
+
+
+BETA TEST COMPETITION WINNER:
+Jesse Fletcher (Friedrich Psitalon)
+
+COMPETITION RUNNERS UP:
+Paul Smith (kring)
+Richard D’Ottavio (rdottavio)
+
+THE PUBLIC BETA TESTERS
+(Alphabetical Order)
+Rodrigo Aguilera (Master Zen), Marc Angstadt (Kinboat),
+Diana Arruda (Dysis),Scott Asher (Epecho),
+Mark Baltazar (Swissy), Dalton Baptista (dalholl), 
+Keith Block (CivCube), Barry Bloom (Architect),
+Janet Blunt (Jan Mistique), Giuseppe Bologna (jbmagic),
+Dustin Bond (monkspider), Gloria Carson (Nolan),
+Justin Cheasty (Hygro), Robert Cheng (Rob),
+Margaret Churchill (lady_mags),Brian Clay (Clay),
+Evan Darrow (edarrow), Jason DeVoe (rgndvo),
+Reuben Dias (NeOmega), Andreas Diederich (milo),
+Richard D’Ottavio (rdottavio), Paul Drayton (Islonian),
+Lonnie Falk (lonnief), Kai Fiebach (ColdFever),
+Jesse Fletcher (Friedrich Psitalon), RG Foster (VitruviusAIA),
+Matthew Fox (skinnyfox), Michael Garfield (Leo),
+Jennifer Gasiorowski (Chieftess), Vesselin Gueorguiev (CivRules),
+Toni Hameenniemi (maxfin), Thomas Hannah (tomart109),
+Cara Heberling (sanctywitch), Patti Heiser (sefkhet),
+Keith Heitmann (Keith), Jason Hendrickson (Falcon02),
+Raymond Heuer (crazybeard), Robin Hewitt (robroy),
+Heather Hodgins (Silverlotus), David Hoehn (davehoehn),
+Chris Hutchinson (kittenOFchaos), Martin Isaksen (Isak),
+Jean Jones (Isetemkheb), Stephen Kieffer (Stavros Megalos),
+Gregory Lankenau (Grendel), Howard Leech (Harrier),
+Maarten Lensink (Matrix), Rieneke Lips (Jaguar),
+Angela Loose (3Rivers), Frieder Lucklum (Lucky),
+Bryan Mathison (Bamspeedy), David McWilliams (DaveMcW),
+Thilo Mengling (Doc Tsiolkovski), Vernon Michael (Elfiwolfe),
+Frank Moore (Frank), Aki Neuvonen (aaglo),
+Siw Noerstad (adorina), Richard Olson (GodKing),
+Micheal Owen (Wtiberon), Robert Owen-Jones (Thucydides),
+Anthony Petryk (Dominae), Felipe Rezende (Felipe_C3B),
+Gregory Ruuska (gruuge), Jonathan Ryder (CanuckSoldier),
+Elaine Schmeck (Nataliia), Dave Schmitt (pdescobar),
+David Scott (SillyDrizzy), Graham Sellers (Artymus),
+Johnathon Shafer (Trip), Paul Smith (kring),
+Michael Soracoe (Sullla), Hal Steiner (SirPartyMan),
+Matthew Tomich (tomich), Jenny Torango (trekgirl),
+Vladimir Urazov (vovan), Joost van den Berg (EmperorJay),
+Radek Vondracek (vondrack), Janet Walker (jancawa),
+Brian Wade (Warpstorm), Charles Wilcox (wilcoxchar),
+Arimah Williams (Boomslang), Barbara Williams (Lepus),
+Martin Wohlert (mrtn), Paul Yearley (dukncovr)
+
+
+
+
+Uses Bink Video. Copyright © 1997-2003 by RAD Game Tools, Inc.
+$bink
+
+
+
+
+MPEG Layer-3 playback supplied with the
+Miles Sound System from RAD Game Tools, Inc.
+
+MPEG Layer-3 audio compression technology licensed by
+Fraunhofer IIS and THOMSON multimedia.
+
+
+
+
+Uses Miles Sound System. Copyright © 1991-2003 by RAD Game Tools, Inc.
+$mss
+
+
+
+
+
+Thanks for playing!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YUMBO!
+#; This line must remain at end of file

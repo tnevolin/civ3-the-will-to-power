@@ -1,0 +1,356 @@
+;
+; Sid Meier's Civilization III
+;
+; Credits
+;
+; Copyright (c) 2000, 2003 by Firaxis Games, Inc.
+;
+
+#CREDITS
+CREATOR OF CIVILIZATION &
+DIRECTOR OF CREATIVE DEVELOPMENT - FIRAXIS GAMES
+
+Sid Meier
+
+
+
+
+
+LEAD DESIGNER - CIVILIZATION III
+CEO & PRESIDENT - FIRAXIS GAMES
+
+Jeffery Briggs
+
+
+
+
+
+DESIGNER & AI PROGRAMMER - CIVILIZATION III
+
+Soren Johnson
+
+
+--------------------------- CIVILIZATION III: COMPLETE EDITION ----------------------------
+
+
+FIRAXIS GAMES STAFF
+
+
+DIRECTOR OF CREATIVE DEVELOPMENT
+Sid Meier
+
+
+CEO AND PRESIDENT
+Jeffery Briggs
+
+
+CHIEF OPERATING OFFICER
+Steve Martin
+
+
+PROGRAMMERS
+Mike Breitkreutz, Lead
+Theresa Bogar
+Dan Magaha
+
+
+DIRECTOR OF SOFTWARE DEVELOPMENT
+Dave Evans
+
+
+ARTISTS
+Mike Bates, Lead
+
+
+ART DIRECTOR
+Mike Gibson
+
+
+PRODUCER
+Dan Magaha
+
+
+DIRECTOR OF MARKETING, PUBLIC RELATIONS
+Lindsay Riehl
+
+
+COMMUNICATIONS MANAGER
+Kelley Gilmore
+
+
+
+2K GAMES
+
+
+
+Gabe Abarcar
+Sarah Anderson
+Roozbeh Ashtyani
+Tom Bass
+Jason Bergman
+Ryan Brant
+Dylan Bromley
+James Daly
+Dan Einzig
+Steve Glickstein
+Greg Gobbi
+Christoph Hartmann
+David Ismailer
+Jennifer Kolbe
+Susan Lewis
+Marc Nesbitt,
+James Pacquing
+Jon Payne
+Christina Recchio
+Dorian Rehfield
+Jack Scalici
+Matt Schlosberg
+Nan Ten
+Peggy Yu
+Lesley Zinn
+
+
+
+
+------------------------------ CIVILIZATION III: CONQUESTS ------------------------------
+
+
+Developed by: 
+FIRAXIS GAMES & BREAKAWAY GAMES
+
+
+
+
+
+FIRAXIS GAMES:
+ 
+PRODUCER
+Jesse Smith
+
+PRODUCTION ASSISTANT &
+QUICKCIV DESIGNER
+Ed Piper
+
+PRODUCTION ASSISTANT
+Jesse Fletcher
+
+DIRECTOR OF SOFTWARE DEVELOPMENT
+Dave Evans
+
+PROGRAMMERS
+Pat Dawson
+Mike Breitkreutz
+
+ART DIRECTOR
+Mike Gibson
+
+ARTISTS
+Steve Chao
+Greg Foertsch
+Mike Bates
+Jerome Atherholt
+Ed Lynch
+Russell Vaccaro
+Dorian Newcomb
+
+MUSIC & SOUND ENGINEERS
+Mark Cromer
+Michael Curran
+
+GAME DESIGN
+Jeffery Briggs
+Soren Johnson
+Jesse Smith
+Ed Piper
+Jesse Fletcher 
+
+DIRECTOR OF MARKETING
+Lindsay Riehl
+
+PUBLIC RELATIONS MANAGER
+Kelley Gilmore
+
+WEBMASTER & ORIGINAL DESIGN - SENGOKU
+Michael Fetterman
+
+QUALITY ASSURANCE MANAGER
+Barry Caudill
+
+IT MANAGER
+Josh Scanlan
+
+
+
+
+
+BREAKAWAY GAMES:
+
+PRODUCER
+Ed Beach
+
+PRODUCTION ASSISTANTS
+Dan Hinks
+Melissa Sawicki
+
+ART DIRECTOR
+Steve Langmead
+
+LEAD ARTIST
+Mike Phillips
+
+ART
+Bill Ahlswede
+Stephen Varga
+Russell Vaccaro
+Todd Brizzi
+Erroll Roberts
+Adam Chacey
+Tiffany Tan
+
+PROGRAMMING
+Andy House
+Norb Timpko
+
+DESIGN
+Charlie Kibler
+Robert Waters
+Ed Beach
+Ananda Gupta
+Bob Taylor
+
+QUALITY ASSURANCE MANAGER
+Melissa Sawicki
+
+QUALITY ASSURANCE
+Ananda Gupta
+Meredith Meadows
+Bob Taylor
+Grant Frazier
+Dan Hinks
+Shaun Seckman
+
+NETWORKING SUPPORT
+Dan Hinks
+
+SPECIAL CONTRIBUTIONS
+Jan van der Crabben (Thamis) - Rise/Fall of Rome maps, Ostrogoth names
+Katya Whitmeyer (Uma Palata) - Russian city names
+Michael Soracoe (Sulla) - Hun history
+Richard F. Jensen (Kal-el) - Age of Discovery map
+
+EXTRA-SPECIAL CONTRIBUTIONS
+Matthew Beach
+Adam Bryant
+Steve Cole
+Ben Knight
+Karen Moody
+Natalya Vaiman
+Bob McNamara
+
+
+
+
+
+FIRAXIS GAMES SPECIAL THANKS:
+
+PRODUCTION
+Steve Martin
+Michael Fetterman
+Jeff Morris
+Dan Magaha
+
+PROGRAMMING
+David McKibbin
+
+ART
+Alex Kim
+Mike Bazzell
+
+DESIGN
+The Fans & Fan Sites
+The Dedicated Public Beta Testers
+Paul Murphy
+
+QUALITY ASSURANCE
+The Public Beta Testers
+
+ABSOLUTE QUALITY
+-Alpha-
+Jeremiah Sanders 
+Clint McCaul 
+Nate Briggs 
+Paul Stone
+-Beta-
+Dave Schmitt 
+Jennifer Gasioworski "Chieftess" 
+Scott Kramperth 
+Mike Andrion 
+Chris Baguley "T-bag" 
+Matt Kutrik "Kutch" 
+Eric Konzal "Da Cap'm" 
+James Copestake
+Calvin Grove
+Troy Kupisch
+
+THE ENTIRE FIRAXIAN TEAM
+
+OUR SUPPORTIVE FAMILY & FRIENDS 
+
+
+
+
+Uses Bink Video. Copyright © 1997-2003 by RAD Game Tools, Inc.
+$bink
+
+
+
+
+MPEG Layer-3 playback supplied with the
+Miles Sound System from RAD Game Tools, Inc.
+
+MPEG Layer-3 audio compression technology licensed by
+Fraunhofer IIS and THOMSON multimedia.
+
+
+
+
+Uses Miles Sound System. Copyright © 1991-2003 by RAD Game Tools, Inc.
+$mss
+
+
+
+
+
+Thanks for playing!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YUMBO!
+#; This line must remain at end of file
