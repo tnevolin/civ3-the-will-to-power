@@ -101,3 +101,15 @@ Defenders attack is lower than their attack. However, there is no sinlge pattern
 
 ## Research pace
 
+First of all, I have reduced minimal research time to 1 turn. I seriously don't see point in artificial technology development impediment.
+
+There are 80+ technologies and 400+ turns which implies civilization should aquire a tech about every 5 turns by all means. Assuming half of techs are traded average research time should be about 10 turns. Give or take depending on world size, trading frequency, and other factors. The major problem with tech development is that it is very unevenly paced. Research capabilities are growing much much faster than tech cost. Ancient techs require about 20-40 turns to complete and there are much less trading at that time. Whereas modern research take 2-5 turns on top of extremely frequent trading. That makes ancient era to last for the good half of the game. Given that it is also very poor with units and improvements there is a constant struggle and stagnation which makes the game boring. From the other hand, end game techs appears in a caledoscopic sequence so that often people cannot fully enjoy playing with particular unit type. It is quite often much better to wait until next discovery before building military.
+
+Cities stagnation due to inaccessibility of aqueduct or hospital is another boring factor. I don't think players should be artificially restricted like that.
+
+To resolve this problem I have rearranged technology costs. Earlier technology costs are reduced, later technology costs are increased. There are some exception to maintain steady unit and improvement progress. Like having horseman immediatelly after chariot is not a good idea. Player should pay a price for such upgrade.
+
+## Setter cost and expansion speed
+
+Civilization 3 strangely feels quite congested on habitable space unlike its predecessors, for example. Expansion happens explosively and completely. By the middle of ancient era everything is occupied already. This makes initial placement luck factor extremely important. I believe some naturally deprived civilization should be able to fight their way through if they cannot expand. Thus forcing their neigbors to slow down on expansion in favor of protection. I believe pricing settler at 60 shield do it to some extent. Now each new city will cost player two swordsmen or three archers. That gives a choice whether to expand or conquer. Vanilla doesn't give this choice - it is only expand there by all cost. I think founding new city should cost even more but I am going to test this for now to see how it works.
+
