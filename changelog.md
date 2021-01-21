@@ -1,56 +1,52 @@
 # version 1
 
-## Free unit support
+## Government free unit support
 
-No ZOC dictates a different tactics where player cannot operate with limited combat unit groups on a battlefield. Without ZOC everybody need to flood the land with units in attempt to keep enemy units from sneaking into gaps betwen units. That also requires protecting back cities against flank attacks. This combined requires higher units to cities ratio than in Civ 2. With that in mind current free unit supports for different governments are just ridiculously low and will definitely be overflowed during war time. That becomes even more pronounced in moderr eras with mixed arms and supporting units. Therefore, this mod proportionally increases free units support for all governments to make war oriented governments more viable and competing.
+No ZOC dictates a different tactics where player cannot operate with limited combat unit groups on a battlefield. Without ZOC everybody need to flood the land with units in attempt to keep enemy units from sneaking into front line gaps. That also requires protecting back cities against flank attacks. All that requires much more units to cities ratio than in Civ 2. With that in mind current free unit supports for different governments are just ridiculously low and will definitely be overflowed during war time. Keep in mind that free unit support includes all units including 2-3 police units and 1-2 worders per city. So even in the peace time cities should maintain like 3-5 units just for police and economical development purposes. That alone may easily overflow free unit tier sucking money from economy. Not to mention supporting regular invasion army. That becomes even more pronounced in modern eras with mixed unit types required (bombardment, air, anti-air, etc.). Therefore, this mod proportionally increases free units support for all governments to make war oriented governments more viable and competing.
 
 On top of that Feudalism free support is flattened per town/city/metro and further increased. Feudalism unit cost is decreased. It is supposed to be an ultimate war government before Fascism era and with vanilla settings it is some weak breed of Monarchy and Republic.
 
-| government | town | city | metro | cost |
-| ---- | ----: | ----: | ----: | ----: |
-| Despotism | 6 | 6 | 6 | 1 |
-| Monarchy | 3 | 6 | 12 | 1 |
-| Communism | 9 | 9 | 9 | 1 |
-| Republic | 2 | 4 | 6 | 2 |
-| Democracy | 0 | 0 | 0 | 1 |
-| Fascism | 5 | 10 | 15 | 1 |
-| Feudalism | 10 | 10 | 10 | 2 |
+| government | town | city | metro | cost | comment |
+| ---- | ----: | ----: | ----: | ----: | ---- |
+| Despotism | 6 | 6 | 6 | 1 ||
+| Monarchy | 4 | 6 | 8 | 1 | Monarchy usually used early in the game only when player still has a lot of towns but barely few cities and definitely no metros. I have increased town allowance a bit and reduced metro a bit too as it probably won't be used ever in game anyway. |
+| Communism | 9 | 9 | 9 | 1 ||
+| Republic | 2 | 3 | 4 | 2 | Straighten it up slightly. Should be somehow between Monarchy and Democracy. |
+| Democracy | 0 | 0 | 0 | 1 ||
+| Fascism | 5 | 10 | 15 | 1 ||
+| Feudalism | 10 | 10 | 10 | 2 | Feudalism generally sucks comparing to Monarchy and Republic. Since unit support is the only thing it is good for let it be exceptionally good at it. I also make its support indepedent on city sizes. Degressing support is stupid. |
 
-## Walls defense bonus
+## Fortress and barricade
 
-Walls defense bonus is increased to 100%. Anything lower is just ridiculous and encourages surrounding city with barricades instead. Cities should be most protected asset. I don't know how it will behave now with town-city-metro transition. Should walls diappear in metro but stay in city? Didn't test.
+Without ZOC it is useless to build fortifications in key strategic location as invaders will just go around them. Therefore, vanilla fortresses are just never used even by human player. Fortress construction time should be *very* short so workers may erect them in large quantities even during hot war on some tactical directions.
 
-Walls cost is also increased to refled stronger defense bonus and potentially longer usage.
-
-## Fortress and barricades construction time
-
-Without ZOC it is useless to build fortifications in key strategic location as invaders will just go around them. Therefore, vanilla fortresses are just never used even by human player. Fortress constrution time should be *very* short so workers may erect them in large quantities even during hot war on some tactical directions.
-
-Fortress base construction time is now 4 which allows to built it in two turns on flat terrain to quickly gain extra 50% defense bonus. Barricade base construction time is 16 which is four times longer as it confers 100% defense bonus comparable to city walls.
+Fortress base construction time is now 4 which allows to built it in two turns on flat terrain. Barricade base construction time is twice longer.
 
 Fortress is also available from start.
 
+Fortress and barricade defence bonus is decreased to 25% (50% combined) so they do not confer more protection than city walls. Otherwise, player would be tempted to just surround cities with barricades which is ridiculous.
+
 ## Barracks cost/maintenance
 
-Barracks effectivelly add 1/3 on top of unit strength which is about same in unit count. So they pay off for themselves as soon as city invests [barracks cost * 3] in units. With 20 shields vanilla barracks cost it is three spearmen/archers/horsemen or two swordsmen. That is like nothing in the world of Civ 3 combat where units floods the battlefield. Obviously, building a barracks before producing any units is no brainer. This mod increases barracs cost and maintenance to slightly correct the situation. Yet it is still must have improvement before full scale war.
+Barracks effectively add 1/3 on top of unit strength which is about same in unit count. So they pay off for themselves as soon as city invests [barracks cost * 3] in units. With 20 shields vanilla barracks cost it equals to three spearmen/archers or two horsemen/swordsmen. That is like nothing in the world of Civ 3 combat where units floods the battlefield. Obviously, building such cheap barracks before producing any units is no brainer. This mod increases barracks cost and maintenance to slightly correct the situation. Yet it is still must have improvement before full scale war.
 
 Barracks cost/maintenance: 6/2
 
 ## Temple cost
 
-Temple is a must have in new settlements to expand their available working radius. It is not a luxury. Vanilla cost is too unaffordable for new settlements. It should be reduced at least slightly.
+Temple is a must have in new settlements to expand their available working radius. It is not a luxury. Vanilla cost is not affordable for new settlements. It should be reduced at least slightly.
 
 Temple cost: 4
 
 ## Terrain defense bonuses
 
-All ridiculous 10% bonuses on flat terrains and water (?) are removed. All rough terrains (forest, jungle, march, hills) now confer 50% bonus. All mountains including volcano are 100%. Simple and easy to remember.
+All ridiculous 10% bonuses on flat terrains and water (?) are removed. All mountains including volcano are 100%. Simple and easy to remember.
 
 ## Terrain yield
 
 The game is strangely restrictive on food. Only terrain supporting further growth are grassland and flood plains and there are not many of them on a map. Everything else is progressively less interesting. There is no much land in game already and about 2/3 of it is filled by 0/1 food terrain. I don't think this is fixable for land tiles as a single unit food addition is going to break a game. However, I believe we can safely add extra food to coast tiles. That will at least sustain cities on tundras a little more.
 
-Same story with shields. I feel like desert and mountains are most unattractive land types which player tries to avoid like a plague. If not food, we should give them more shields to encourage settlements there. This will turn desert and mountain at least not inferior to hills.
+Same story with shields. I feel like desert and mountains are most unattractive land types which player tries to avoid like a plague. If not food, we should give them more shields to encourage settlements there. This will add some production value to desert and mountains and make them not inferior to hills.
 
 #### Terrain yield changes
 
@@ -62,7 +58,7 @@ Same story with shields. I feel like desert and mountains are most unattractive 
 
 ## Clean wetland worker job
 
-Wetlands are absolutely not usable and normally cleaned up to uncover grassland. I don't even understand why they are in a game if they are cleanable? Some sort of mini game that leads absolutely nowhere but just waste worker time. As such I don't absolutely see a point for them to be cleaned for such ridiculously long time. Therefore, I have significantly reduced this worker job.
+Wetlands are absolutely not usable and normally cleaned up to uncover grassland. I don't even understand why they are in a game if they are cleanable? Some sort of mini game that leads absolutely nowhere but just waste worker time. As such I don't absolutely see a point for them to be cleaned for such ridiculously long time. Therefore, I have significantly reduced wetland cleanup time.
 
 ## Units
 
@@ -83,11 +79,11 @@ All fast attackers are following the same pattern: defense is half of the attack
 | Tank | **240** | 16 | 8 | 2 |
 | Modern Armor | **360** | 24 | 16 | 3 |
 
-Modern Armor defense is slightly off pattern but I don't care fixing it for the very late unit. It won't fix already won or lost games.
+Modern Armor defense is slightly off pattern but I don't care fixing it for the very late unit. It won't change already won or lost games.
 
 ### Defenders
 
-Defenders attack is lower than their attack. However, there is no sinlge pattern on that. Their attack/defense value ratio may be no more than 1/2 (Spearman, Pikeman, Musketman), about 2/3 (Rifleman, Infantry, Mech Infantry), or almost up to 1 (Guerilla, TOW Infantry). The cost pattern is not entirely clear either. I take it is defined by their defense value for pure defenders when their attack is no more than half of their defense. Whatever extra attack they have on top of half of their defense should factor into the cost as well. With that in mind below are defensive unit costs. Bolded are changed values.
+Defenders attack should be lower than their attack. However, there is no single pattern on that. Their attack/defense value ratio may be no more than 1/2 (Spearman, Pikeman, Musketman), about 2/3 (Rifleman, Infantry, Mech Infantry), or almost up to 1 (Guerilla, TOW Infantry). The cost pattern is not entirely clear either. I take it is defined by their defense value for pure defenders when their attack is no more than half of their defense. Whatever extra attack they have on top of half of their defense should factor into the cost as well. With that in mind below are defensive unit costs. Changed values are in bold.
 
 | unit | cost | attack | defense | movement |
 | ---- | ----: | ----: | ----: | ----: |
@@ -102,13 +98,20 @@ Defenders attack is lower than their attack. However, there is no sinlge pattern
 | Paratrooper | 90 | 4 | 9 | 1 |
 | Modern Paratrooper | 110 | 6 | 11 | 1 |
 
-## Research pace
+### Foot attackers
+
+Foot attackers follows about the same pattern as fast attackers. There are just two of them: swordmen and medieval infantry. They are generally fine except swordmen has too much defense no other attacker has in ancient era. That is too much for their price. They don't even need a spearmen to defend. I lowered their defence to 1 so other contemporary attackers can effectivelly counterattack them at least. Otherwise, they are too OP and effectivelly doom anyone unluckly to not possessing iron.
+
+| unit | cost | attack | defense | movement |
+| ---- | ----: | ----: | ----: | ----: |
+| Swordman | 30 | 3 | **1** | 1 |
+| Medieval infantry | 40 | 4 | 2 | 1 |
+
+## Research tree
 
 First of all, I have reduced minimal research time to 1 turn. I seriously don't see point in artificial technology development impediment.
 
-There are 80+ technologies and 400+ turns which implies civilization should aquire a tech about every 5 turns by all means. Assuming half of techs are traded average research time should be about 10 turns. Give or take depending on world size, trading frequency, and other factors. The major problem with tech development is that it is very unevenly paced. Research capabilities are growing much much faster than tech cost. Ancient techs require about 20-40 turns to complete and there are much less trading at that time. Whereas modern research take 2-5 turns on top of extremely frequent trading. That makes ancient era to last for the good half of the game. Given that it is also very poor with units and improvements there is a constant struggle and stagnation which makes the game boring. From the other hand, end game techs appears in a caledoscopic sequence so that often people cannot fully enjoy playing with particular unit type. It is quite often much better to wait until next discovery before building military.
+Path to Monarchy is eased up a little. This is the first government after despotism and should be accessible much earlier before Republic and Feudalism to disable exceptionally restrictive Despotism yield penalties.
 
-Cities stagnation due to inaccessibility of aqueduct or hospital is another boring factor. I don't think players should be artificially restricted like that.
-
-To resolve this problem I have rearranged technology costs. Earlier technology costs are reduced, later technology costs are increased. There are some exception to maintain steady unit and improvement progress. Like having horseman immediatelly after chariot is not a good idea. Player should pay a price for such upgrade.
+Cities in Civ 3 grow exceptionally fast. They easily fall into stagnation due to aqueduct or hospital inaccessibility which is pretty boring impediment. I don't think players should be artificially restricted like that. Aqueduct is moved to Mathematic. Sanitation is moved as a followup for Engineering. I often saw cities easily grow to 12 in the early middle age and then just sitting at this number for the whole era. Ugh.
 

@@ -508,7 +508,7 @@ depending upon how many towns, cities, or metros the civilization controls.
 ^Anarchy				  0		  0		  0
 ^Despotism				  6		  6		  6
 ^Monarchy				  4		  6		  8
-^Republic				  2		  4		  6
+^Republic				  2		  3		  4
 ^Feudalism			  	10		10		10
 ^Communism			  9		  9		  9
 ^Fascism				  5		10		15
@@ -8021,8 +8021,8 @@ $LINK<civil disorder=GCON_Disorder> problems in times of war, especially if you 
 ^Military Police Limit				1
 ^Unit Support
 ^    per town					2
-^    per city						4
-^    per metropolis				6
+^    per city						3
+^    per metropolis				4
 #DESC_GOVT_Republic
 The republic is a system of government in which the citizens appoint, by popular vote, a head of state and officials to represent the 
 views of the general public. The concept of the republic first appeared in ancient Rome, where local provinces sent elected 
