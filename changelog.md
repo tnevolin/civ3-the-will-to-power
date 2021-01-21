@@ -62,7 +62,7 @@ Same story with shields. I feel like desert and mountains are most unattractive 
 
 ## Clean wetland worker job
 
-Wetlands are absolutely not usable and normally cleaned up to uncover grassland. I don't even understand why they are in a game if they are cleanable? Some sort of minigame that leads absolutely nowhere but just waste worker time. As such I don't absolutely see a point for them to be cleaned for such ridiculously long time. Therefore, I have significantly reduced this worker job.
+Wetlands are absolutely not usable and normally cleaned up to uncover grassland. I don't even understand why they are in a game if they are cleanable? Some sort of mini game that leads absolutely nowhere but just waste worker time. As such I don't absolutely see a point for them to be cleaned for such ridiculously long time. Therefore, I have significantly reduced this worker job.
 
 ## Units
 
@@ -111,8 +111,4 @@ There are 80+ technologies and 400+ turns which implies civilization should aqui
 Cities stagnation due to inaccessibility of aqueduct or hospital is another boring factor. I don't think players should be artificially restricted like that.
 
 To resolve this problem I have rearranged technology costs. Earlier technology costs are reduced, later technology costs are increased. There are some exception to maintain steady unit and improvement progress. Like having horseman immediatelly after chariot is not a good idea. Player should pay a price for such upgrade.
-
-## Setter cost and expansion speed
-
-Civilization 3 strangely feels quite congested on habitable space unlike its predecessors, for example. Expansion happens explosively and completely. By the middle of ancient era everything is occupied already. This makes initial placement luck factor extremely important. I believe some naturally deprived civilization should be able to fight their way through if they cannot expand. Thus forcing their neigbors to slow down on expansion in favor of protection. I believe pricing settler at 60 shield do it to some extent. Now each new city will cost player two swordsmen or three archers. That gives a choice whether to expand or conquer. Vanilla doesn't give this choice - it is only expand there by all cost. I think founding new city should cost even more but I am going to test this for now to see how it works.
 

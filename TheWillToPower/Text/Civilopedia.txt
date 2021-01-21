@@ -507,11 +507,11 @@ depending upon how many towns, cities, or metros the civilization controls.
 ^{Government			Town	City		Metro}
 ^Anarchy				  0		  0		  0
 ^Despotism				  6		  6		  6
-^Monarchy				  3		  6		 12
+^Monarchy				  4		  6		  8
 ^Republic				  2		  4		  6
-^Feudalism			  	 10		 10		 10
+^Feudalism			  	10		10		10
 ^Communism			  9		  9		  9
-^Fascism				  5		 10		  15
+^Fascism				  5		10		15
 ^Democracy			  0		  0		  0
 
 
@@ -7962,9 +7962,9 @@ $LINK<Corruption and waste=GCON_Corruption> are significant, but are ameliorated
 ^Draft Rate						2
 ^Military Police Limit				3
 ^Unit Support
-^    per town					3
+^    per town					4
 ^    per city						6
-^    per metropolis				12
+^    per metropolis				8
 #DESC_GOVT_Monarchy
 ^Rule by monarchy developed as a logical extension of the absolute rule of tribal chieftains. Many of the earliest monarchs, such as those in 
 ancient Egypt, claimed that they ruled by divine right. In the spread of European monarchy during the Middle Ages, however, rulership was 
@@ -8018,7 +8018,7 @@ $LINK<civil disorder=GCON_Disorder> problems in times of war, especially if you 
 ^Corruption / Waste				Nuisance
 ^War Weariness					Low
 ^Draft Rate						1
-^Military Police Limit				0
+^Military Police Limit				1
 ^Unit Support
 ^    per town					2
 ^    per city						4
