@@ -32,12 +32,6 @@ Barracks effectively add 1/3 on top of unit strength which is about same in unit
 
 Barracks cost/maintenance: 6/2
 
-## Temple cost
-
-Temple is a must have in new settlements to expand their available working radius. It is not a luxury. Vanilla cost is not affordable for new settlements. It should be reduced at least slightly.
-
-Temple cost: 4
-
 ## Terrain defense bonuses
 
 All ridiculous 10% bonuses on flat terrains and water (?) are removed. All mountains including volcano are 100%. Simple and easy to remember.
@@ -51,7 +45,7 @@ Same story with shields. I feel like desert and mountains are most unattractive 
 #### Terrain yield changes
 
 | terrain | food | shields | commerce | irrigation | mine |
-| ---- | ----: | ----: | ----: | ----: |
+| ---- | ----: | ----: | ----: | ----: | ----: |
 | Desert | 0 | 2 | 0 | +1 | +1 |
 | Mountains | 0 | 1 | 0 | - | +3 |
 | Coast | 2 | 0 | 2 | - | - |
@@ -104,8 +98,10 @@ Foot attackers follows about the same pattern as fast attackers. There are just 
 
 | unit | cost | attack | defense | movement |
 | ---- | ----: | ----: | ----: | ----: |
+| Archer | 20 | 2 | 1 | 1 |
 | Swordman | 30 | 3 | **1** | 1 |
 | Medieval infantry | 40 | 4 | 2 | 1 |
+| Longbowman | 40 | 4 | 1 | 1 |
 
 ## Research tree
 
