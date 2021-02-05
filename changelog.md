@@ -89,7 +89,7 @@ There are not many units in general so I also tried to spread their strengths a 
 
 ### Price
 
-|+ Basic pricing multipliers +|
+|| Basic pricing multipliers ||
 | unit type | primary statistics | price multiplier | comment |
 | ---- | ---- | ----: | ---- |
 | defender | defense | 10 | |
