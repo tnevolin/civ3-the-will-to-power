@@ -162,8 +162,8 @@ Additional price for units with extra non standard attack/defense ratio (guerill
 | ---- | ----: | ----: | ----: | ----: | ----: | ----: | ----: |
 | Fighter | 80 | 4 | 2 | 1 | 3 | 6 | 1 |
 | Bomber | 180 | 0 | 2 | 1 | 12 | 10 | 3 |
-| Jet Fighter | 120 | 8 | 4 | 1 | 3 | 9 | 1 |
-| Stealth Fighter | 150 | 8 | 6 | 1 | 6 | 12 | 2 |
+| Jet Fighter | 160 | 8 | 4 | 1 | 3 | 9 | 1 |
+| Stealth Fighter | 200 | 8 | 6 | 1 | 6 | 12 | 2 |
 | Stealth Bomber | 300 | 0 | 5 | 1 | 18 | 16 | 3 |
 
 ### Warships
