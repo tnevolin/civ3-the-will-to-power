@@ -90,14 +90,14 @@ There are not many units in general so I also tried to spread their strengths a 
 ### Price
 
 ###### Basic pricing multipliers
-| unit type | primary statistics | price multiplier | comment |
-| ---- | ---- | ----: | ---- |
-| defender | defense | 10 | |
-| foot attacker | attack | 10 | |
-| fast attacker | attack | 15 | |
-| artillery / bomber | bombard x rate| 5 | consistent accross all bombarders |
-| fighter | attack | 40 | roughly to make fighter about twice as more economically effective against bomber |
-| warship | (attack + defense) / 2 | 30 | starting from frigate |
+| unit type | primary statistics | price multiplier |
+| ---- | ---- | ----: |
+| defender | defense | 10 |
+| foot attacker | attack | 10 |
+| fast attacker | attack | 15 |
+| artillery, bomber | bombard x rate| 5 |
+| fighter | attack | 40 |
+| warship | (attack + defense) / 2 | 30 |
 
 Additional price for units with extra non standard attack/defense ratio (guerilla, TOW infantry) or extra abilities (amphibious).
 
