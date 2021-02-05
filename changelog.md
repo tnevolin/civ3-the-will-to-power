@@ -87,6 +87,8 @@ Unit strength grows no more than 1.5 times with next generation and no more than
 
 There are not many units in general so I also tried to spread their strengths a little to make their usage more interesting. For example, archer is still usable even with swordman around because it is cheaper. Whereas, medieval infantry is superior to longbowman and renders it completely useless. So making longbowman stronger would be a solution.
 
+Late units like tank and modern armor are unnessesarily strong. There is no contemporary units able to compete with them. They are even stronger than battleship. Ridiculous.
+
 ### Price
 
 ###### Basic pricing multipliers
@@ -101,46 +103,9 @@ There are not many units in general so I also tried to spread their strengths a 
 
 Additional price for units with extra non standard attack/defense ratio (guerilla, TOW infantry) or extra abilities (amphibious).
 
-
-Fast attackers are 1.5 times more costly than equivalent strength
-
-Generally, I am trying to follow overall game patterns and correct the outliers. Early to mid game unit costs should be proportional to each other. Late industrial era units are about 1.5 times proportionally more expensive and modern era units are about 2 times proportionally more expensive due to sudden production increase.
-
-At the same time I am trying to slow down unit attack/defense value progression toward the end of the game. They start progressing so fast that next unit in line completely obsoletes previous one. Even worse if this new unit requires strategic resources. That gives lucky few an immediate game winning advantage which is not fun. I more prefer steady and strategical development. My take on this is that next unit generation should not be superior in all aspects to its immediate predecessors. So civilization that is slightly behind in research maintain its fighting power at least to some level. My take on strategic resources is that they should provide slightly better unit versions but not too much. So resourceless civilization should still be able to defend itself on own territory. There always should be resourceless unit alternatives in every era.
-
-### Fast attackers
-
-Price for all units is corrected to match 15 x attack. Later unit strength is reduced to maintain steady power growth.
-
-Knight defense is reduced to follow 1/2 attack to defense ratio.
-
-| unit | cost | attack | defense | movement | resource |
-| ---- | ----: | ----: | ----: | ----: | :----: |
-| Chariot | 20 | 1 | 1 | 2 | + |
-| Horseman | 30 | 2 | 1 | 2 | + |
-| Knight | 60 | 4 | 2 | 2 | + |
-| Cavalry | 90 | 6 | 3 | 3 | + |
-| Tank | 200 | 12 | 6 | 2 | + |
-| Modern Armor | 300 | 18 | 12 | 3 | + |
-
-### Foot attackers
-
-Price for all units is corrected to match 10 x attack or 15 x attack/defense for later well rounded units. Later unit strength is reduced to maintain steady power growth.
-
-Swordsman defense is the best one in ancient era allowing it to effectivelly withstand archer attack. That is too much for their price. They don't even need spearmen to be mixed into assaulting party for protection. I lowered their defense to 1 so other contemporary attackers can effectively counterattack them. Otherwise, they are too OP for resource dependent unit.
-
-| unit | cost | attack | defense | movement | resource |
-| ---- | ----: | ----: | ----: | ----: | :----: |
-| Archer | 20 | 2 | 1 | 1 |  |
-| Swordsman | 30 | 3 | 1 | 1 | + |
-| Longbowman | 40 | 4 | 1 | 1 |  |
-| Medieval infantry | 40 | 4 | 2 | 1 | + |
-| Guerilla | 90 | 6 | 6 | 1 |  |
-| TOW Infantry | 150 | 10 | 10 | 1 |  |
+## Tables
 
 ### Defenders
-
-Price for all units is corrected to match 10 x defense. Later unit strength is reduced to maintain steady power growth.
 
 | unit | cost | attack | defense | movement | resource |
 | ---- | ----: | ----: | ----: | ----: | :----: |
@@ -149,49 +114,81 @@ Price for all units is corrected to match 10 x defense. Later unit strength is r
 | Musketman | 40 | 2 | 4 | 1 | + |
 | Rifleman | 60 | 4 | 6 | 1 |  |
 | Infantry | 100 | 6 | 10 | 1 | + |
-| Mech Infantry | 120 | 10 | 12 | 2 | + |
+| Mech Infantry | 150 | 10 | 15 | 2 | + |
+
+### Foot attackers
+
+| unit | cost | attack | defense | movement | resource |
+| ---- | ----: | ----: | ----: | ----: | :----: |
+| Archer | 20 | 2 | 1 | 1 |  |
+| Swordsman | 30 | 3 | 1 | 1 | + |
+| Medieval infantry | 40 | 4 | 2 | 1 | + |
+| Longbowman | 50 | 5 | 1 | 1 |  |
+| Guerilla | 70 | 6 | 6 | 1 |  |
+| Marine | 120 | 12 | 6 | 1 |  |
+| TOW Infantry | 150 | 12 | 12 | 1 |  |
+
+### Fast attackers
+
+| unit | cost | attack | defense | movement | resource |
+| ---- | ----: | ----: | ----: | ----: | :----: |
+| Chariot | 20 | 1 | 1 | 2 | + |
+| Horseman | 30 | 2 | 1 | 2 | + |
+| Knight | 60 | 4 | 2 | 2 | + |
+| Cavalry | 90 | 6 | 3 | 3 | + |
+| Tank | 180 | 12 | 6 | 2 | + |
+| Modern Armor | 300 | 18 | 12 | 3 | + |
 
 ### Paratroopers
 
-Price for all units is corrected to match 15 x defense. They have special ability to jump on another continent. That is why they are more expensive than regular defenders.
-
 | unit | cost | attack | defense | movement | resource |
-| Paratrooper | 200 | 4 | 9 | 1 | + |
-| Modern Paratrooper | 330 | 6 | 11 | 1 | + |
+| ---- | ----: | ----: | ----: | ----: | :----: |
+| Paratrooper | 130 | 4 | 9 | 1 | + |
+| Modern Paratrooper | 180 | 6 | 12 | 1 | + |
+
+### Artillery
+
+| unit | cost | attack | defense | movement | bombardment | range | rate of fire |
+| ---- | ----: | ----: | ----: | ----: | ----: | ----: | ----: |
+| Catapult | 20 | 0 | 0 | 1 | 4 | 1 | 1 |
+| Trebuchet | 30 | 0 | 0 | 1 | 6 | 1 | 1 |
+| Cannon | 40 | 0 | 0 | 1 | 8 | 1 | 1 |
+| Artillery | 120 | 0 | 0 | 1 | 12 | 2 | 2 |
+| Radar Artillery | 160 | 0 | 0 | 2 | 16 | 2 | 2 |
 
 ### Aircrafts
-
-Price for all units is corrected to match 15 x bombardment. Figher price is made effective against bombers.
 
 | unit | cost | attack | defense | movement | bombardment | range | rate of fire |
 | ---- | ----: | ----: | ----: | ----: | ----: | ----: | ----: |
 | Fighter | 100 | 4 | 2 | 1 | 3 | 6 | 1 |
-| Bomber | 100 | 0 | 2 | 1 | 12 | 10 | 3 |
+| Bomber | 200 | 0 | 2 | 1 | 12 | 10 | 3 |
 | Jet Fighter | 200 | 8 | 4 | 1 | 3 | 9 | 1 |
 | Stealth Fighter | 250 | 8 | 6 | 1 | 6 | 12 | 2 |
-| Stealth Bomber | 250 | 0 | 5 | 1 | 18 | 16 | 3 |
+| Stealth Bomber | 300 | 0 | 5 | 1 | 18 | 16 | 3 |
 
 ### Warships
 
+| unit | cost | attack | defense | movement | bombardment | range | rate of fire |
+| ---- | ----: | ----: | ----: | ----: | ----: | ----: | ----: |
+| Fighter | 100 | 4 | 2 | 1 | 3 | 6 | 1 |
+| Bomber | 200 | 0 | 2 | 1 | 12 | 10 | 3 |
+| Jet Fighter | 200 | 8 | 4 | 1 | 3 | 9 | 1 |
+| Stealth Fighter | 250 | 8 | 6 | 1 | 6 | 12 | 2 |
+| Stealth Bomber | 300 | 0 | 5 | 1 | 18 | 16 | 3 |
+
 Price for all units is corrected to match 30 x average attack+defense.
 
-| unit | cost | attack | defense | movement |
-| ---- | ----: | ----: | ----: | ----: |
-| Galley | 30 | 1 | 1 | 3 |
-| Caravel | 40 | 1 | 2 | 3 |
-| Galley | 30 | 1 | 1 | 3 |
-| Galley | 30 | 1 | 1 | 3 |
-| Galley | 30 | 1 | 1 | 3 |
-| Galley | 30 | 1 | 1 | 3 |
-| Galley | 30 | 1 | 1 | 3 |
-| Galley | 30 | 1 | 1 | 3 |
-| Galley | 30 | 1 | 1 | 3 |
-| Galley | 30 | 1 | 1 | 3 |
-| Galley | 30 | 1 | 1 | 3 |
-| Galley | 30 | 1 | 1 | 3 |
-| Galley | 30 | 1 | 1 | 3 |
-| Galley | 30 | 1 | 1 | 3 |
-| Galley | 30 | 1 | 1 | 3 |
+| unit | cost | attack | defense | movement | bombardment | range | rate of fire |
+| ---- | ----: | ----: | ----: | ----: | ----: | ----: | ----: |
+| Frigate | 60 | 2 | 2 | 5 | 3 | 1 | 2 |
+| Ironclad | 150 | 5 | 5 | 3 | 6 | 1 | 2 |
+| Destroyer | 300 | 12 | 8 | 8 | 6 | 1 | 2 |
+| Cruiser | 370 | 15 | 10 | 6 | 7 | 1 | 2 |
+| AEGIS Cruiser | 370 | 15 | 10 | 7 | 6 | 2 | 2 |
+| Battleship | 450 | 18 | 12 | 5 | 8 | 2 | 2 |
+| Submarine | 180 | 8 | 4 | 4 | 0 | 0 | 0 |
+| Nuclear Submarine | 200 | 8 | 4 | 5 | 0 | 0 | 0 |
+| Carrier | 250 | 1 | 8 | 7 | 0 | 0 | 0 |
 
 ## Research tree
 
