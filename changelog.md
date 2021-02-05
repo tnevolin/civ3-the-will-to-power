@@ -97,8 +97,8 @@ Late units like tank and modern armor are unnessesarily strong. There is no cont
 | defender | defense | 10 |
 | foot attacker | attack | 10 |
 | fast attacker | attack | 15 |
-| artillery, bomber | bombard x rate| 5 |
-| fighter | attack | 40 |
+| artillery, bomber | bombard x rate | 5 |
+| fighter | attack | 20 |
 | warship | (attack + defense) / 2 | 30 |
 
 Additional price for units with extra non standard attack/defense ratio (guerilla, TOW infantry) or extra abilities (amphibious).
@@ -160,23 +160,13 @@ Additional price for units with extra non standard attack/defense ratio (guerill
 
 | unit | cost | attack | defense | movement | bombardment | range | rate of fire |
 | ---- | ----: | ----: | ----: | ----: | ----: | ----: | ----: |
-| Fighter | 100 | 4 | 2 | 1 | 3 | 6 | 1 |
-| Bomber | 200 | 0 | 2 | 1 | 12 | 10 | 3 |
-| Jet Fighter | 200 | 8 | 4 | 1 | 3 | 9 | 1 |
-| Stealth Fighter | 250 | 8 | 6 | 1 | 6 | 12 | 2 |
+| Fighter | 80 | 4 | 2 | 1 | 3 | 6 | 1 |
+| Bomber | 180 | 0 | 2 | 1 | 12 | 10 | 3 |
+| Jet Fighter | 120 | 8 | 4 | 1 | 3 | 9 | 1 |
+| Stealth Fighter | 150 | 8 | 6 | 1 | 6 | 12 | 2 |
 | Stealth Bomber | 300 | 0 | 5 | 1 | 18 | 16 | 3 |
 
 ### Warships
-
-| unit | cost | attack | defense | movement | bombardment | range | rate of fire |
-| ---- | ----: | ----: | ----: | ----: | ----: | ----: | ----: |
-| Fighter | 100 | 4 | 2 | 1 | 3 | 6 | 1 |
-| Bomber | 200 | 0 | 2 | 1 | 12 | 10 | 3 |
-| Jet Fighter | 200 | 8 | 4 | 1 | 3 | 9 | 1 |
-| Stealth Fighter | 250 | 8 | 6 | 1 | 6 | 12 | 2 |
-| Stealth Bomber | 300 | 0 | 5 | 1 | 18 | 16 | 3 |
-
-Price for all units is corrected to match 30 x average attack+defense.
 
 | unit | cost | attack | defense | movement | bombardment | range | rate of fire |
 | ---- | ----: | ----: | ----: | ----: | ----: | ----: | ----: |
@@ -189,6 +179,14 @@ Price for all units is corrected to match 30 x average attack+defense.
 | Submarine | 180 | 8 | 4 | 4 | 0 | 0 | 0 |
 | Nuclear Submarine | 200 | 8 | 4 | 5 | 0 | 0 | 0 |
 | Carrier | 250 | 1 | 8 | 7 | 0 | 0 | 0 |
+
+### Missiles
+
+| unit | cost | attack | defense | movement | bombardment | range | rate of fire |
+| ---- | ----: | ----: | ----: | ----: | ----: | ----: | ----: |
+| Cruise Missile | 60 | 0 | 0 | 1 | 16 | 4 | 1 |
+| Tactical Nuke | 1000 | 0 | 0 | 1 | 0 | 0 | 0 |
+| ICBM | 1500 | 0 | 0 | 1 | 0 | 0 | 0 |
 
 ## Research tree
 
