@@ -54,6 +54,25 @@ Same story with shields. I feel like desert and mountains are most unattractive 
 
 Wetlands are absolutely not usable and normally cleaned up to uncover grassland. I don't even understand why they are in a game if they are cleanable? Some sort of mini game that leads absolutely nowhere but just waste worker time. As such I don't absolutely see a point for them to be cleaned for such ridiculously long time. Therefore, I have significantly reduced wetland cleanup time.
 
+## Strategic resources
+
+There are two standing out strategic resources: iron and coal. They are used not only to produce slightly better units but railroad, factories and power plants as well. While inability to produce better unit could be a hindrance, the inability to build railroad/factories/plants is just a disaster that deprives player from doubling their food income and tripling/quadroupling their production. It's just not fair. To make it more evenly distributed I have increased appearance ratio for both iron and coal to 200.
+
+Appearance ratio for late resources is increased to 160. It is not really clear to me why only few lucky could build tanks, infantry and ICBM.
+
+All resources now have diappearance probability to allow their rotation across the globe. Disappearance probability for all resources is about doubled to increase their rotation frequency across the globe. This way each player has more chance to acquire/lose resource during the play. More fair this way and less dependency on dumb luck.
+
+| resource | appearance ratio | disappearance probability |
+| ---- | ----: | ----: |
+| Horses | 160 | **200** |
+| Iron | **200** | **200** |
+| Saltpeter | 160 | **200** |
+| Coal | **200** | **200** |
+| Oil | **160** | **100** |
+| Rubber | **160** | **100** |
+| Aluminum | **160** | **100** |
+| Uranium | **160** | **50** |
+
 ## Units
 
 I am trying to modify standard units parameters. I will try to similarly adjust UU alternatives for these regulars if I can find them. Let me know if I missed any UU.
