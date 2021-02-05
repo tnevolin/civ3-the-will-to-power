@@ -124,7 +124,7 @@ Additional price for units with extra non standard attack/defense ratio (guerill
 | Swordsman | 30 | 3 | 1 | 1 | + |
 | Medieval infantry | 40 | 4 | 2 | 1 | + |
 | Longbowman | 50 | 5 | 1 | 1 |  |
-| Guerilla | 70 | 6 | 6 | 1 |  |
+| Guerilla | 90 | 9 | 6 | 1 |  |
 | Marine | 120 | 12 | 6 | 1 |  |
 | TOW Infantry | 150 | 12 | 12 | 1 |  |
 
