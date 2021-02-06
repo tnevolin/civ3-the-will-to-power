@@ -192,7 +192,7 @@ Additional price for units with extra non standard attack/defense ratio (guerill
 | Tactical Nuke | 1000 | 0 | 0 | 1 | 0 | 0 | 0 |
 | ICBM | 1500 | 0 | 0 | 1 | 0 | 0 | 0 |
 
-## Research tree
+# Research tree
 
 First of all, I have reduced minimal research time to 1 turn. I seriously don't see point in artificial technology development impediment.
 
@@ -200,7 +200,7 @@ Path to Monarchy is eased up a little. This is the first government after despot
 
 Cities in Civ 3 grow exceptionally fast. They easily fall into stagnation due to aqueduct or hospital inaccessibility which is pretty boring impediment. I don't think players should be artificially restricted like that. Aqueduct is moved to Mathematic. Sanitation is moved as a followup for Engineering. I often saw cities easily grow to 12 in the early middle age and then just sitting at this number for the whole era. Ugh.
 
-## Production multipliers
+# Production multipliers
 
 Railroad already about doubles production. Then factories and power plants come in quick succesion effectively quadroupling production together with railroad. I like production but this is definitely too much. I have cut all factories and power plant bonues in half.
 
