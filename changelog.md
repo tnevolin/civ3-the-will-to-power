@@ -102,12 +102,12 @@ Resource requirements for some critical defender units are lifted to ensure ever
 | unit | advancement | cost | attack | defense | movement | resource | explanation |
 | ---- | ---- | ----: | ----: | ----: | ----: | :----: | ---- |
 | Spearman | | 20 | 1 | 2 | 1 | | |
-| Pikeman | | 40 | 2 | 4 | 1 | | No resource unit to close the gap between spearman and rifleman. |
-| Musketman | Chemistry | 60 | 3 | 6 | 1 | + | Moved later down the tech tree. Otherwise it comes in quick succession after pikeman. |
-| Rifleman | | 80 | 4 | 8 | 1 |  | |
-| Infantry | | 100 | 6 | 10 | 1 | + | |
+| Pikeman | | 30 | 1 | 3 | 1 | | Does not require resource to have at least one available defender in era. |
+| Musketman | Chemistry | 40 | 2 | 4 | 1 | + | Moved later down the tech tree. Otherwise it comes in quick succession after pikeman. |
+| Rifleman | | 60 | 4 | 6 | 1 |  | |
+| Infantry | | 90 | 6 | 9 | 1 | + | |
 | Mech Infantry | Steel | 120 | 8 | 12 | 2 | + | Lowered in tech tree and defender rank. Not an ultimate defender anymore. Logically it should sit on Combustion but it is already packed on a diagram and Steel was completely empty tech. |
-| TOW Infantry | | 150 | 12 | 14 | 1 |  | Reclassified as an ultimate anti-tank missile defence unit. There is no need for another attacker in modern era. |
+| TOW Infantry | | 150 | 12 | 16 | 1 |  | Reclassified as an ultimate anti-tank missile defence unit. There is no need for another attacker in modern era. |
 
 ### Attackers
 
@@ -121,7 +121,7 @@ Resource requirements for some critical defender units are lifted to ensure ever
 | Knight | | 60 | 4 | 1 | 2 | + | |
 | Medieval infantry | Physics | 60 | 6 | 4 | 1 | + | New unit in Conquests that was essentially a longbowmen duplicate. Made stronger and appearing later. |
 | Cavalry | | 90 | 6 | 2 | 3 | + | |
-| Guerrilla | Electricity | 80 | 8 | 6 | 1 | | An intermediary attacker between cavalry and marines. Moved slightly early up the tree since not requiring rubber. |
+| Guerrilla | Electricity | 90 | 9 | 6 | 1 | | An intermediary attacker between cavalry and marines. Moved slightly early up the tree since not requiring rubber. |
 | Marine | | 120 | 12 | 10 | 1 | | An ultimate slow attacker. Defense increased to make use in sole amphibious operations. |
 | Tank | | 180 | 12 | 6 | 2 | + | |
 | Modern Armor | | 300 | 16 | 8 | 3 | + | |
@@ -171,9 +171,9 @@ Resource requirements for some critical defender units are lifted to ensure ever
 
 | unit | cost | attack | defense | movement | bombardment | range | rate of fire |
 | ---- | ----: | ----: | ----: | ----: | ----: | ----: | ----: |
-| Cruise Missile | 60 | 0 | 0 | 1 | 16 | 4 | 1 |
-| Tactical Nuke | 1000 | 0 | 0 | 1 | 0 | 0 | 0 |
-| ICBM | 1500 | 0 | 0 | 1 | 0 | 0 | 0 |
+| Cruise Missile | 60 | 0 | 0 | 1 | 16 | 4 | 3 |
+| Tactical Nuke | 500 | 0 | 0 | 1 | 0 | 0 | 0 |
+| ICBM | 800 | 0 | 0 | 1 | 0 | 0 | 0 |
 
 # Research tree
 
