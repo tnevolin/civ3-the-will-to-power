@@ -9,7 +9,7 @@ Republic free support is streamlined for aestetic purposes. I also gave it 1 pol
 Democracy unit cost is increased. I don't see much sense in having it lower than Republic's one for the most income rich government option.
 
 | government | town | city | metro | cost | police |
-| ---- | ----: | ----: | ----: | ----: |
+| ---- | ----: | ----: | ----: | ----: | ----: |
 | Despotism | 4 | 4 | 4 | 1 | 2 |
 | Monarchy | 2 | 4 | 6 | 1 | 3 |
 | Communism | 6 | 6 | 6 | 1 | 4 |
