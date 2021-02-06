@@ -81,67 +81,50 @@ All resources now have diappearance probability to allow their rotation across t
 
 # Units
 
-Units strength and price is generally well balanced in ancient and medieval eras. Later, however, strange thing happens. Units strength start grwoing rapidly and even kinda jumpy. Whereas, cost almost doesn't grow at all. Combined with quadrupled production power due to factories/plants/railroad it makes discovering new unit a critical winning strategy. Economy is no longer matter as well as any number of previous generation units those immediatelly become obsoletes in front of new unit immense power.
+Units strength and price is generally well balanced in ancient and medieval eras. Later, however, strange thing happens. Units strength start grwoing rapidly and even jumpy. Whereas, cost almost doesn't grow at all. Combined with quadrupled production power due to factories/plants/railroad it makes discovering new unit a critical winning strategy effectivelly obsoleting swarm of previous generation units.
 
 ## Proposed modifications
 
-### Strength
+Units are distributed more evenly across the tech tree. Their strength is modified to make smoother progressions and give players something to fight with in every era with or without strategical resources.
 
-Unit strength grows no more than 1.5 times with next generation and no more than 2 times over the era.
+Contemporary attackers and defenders have comparable strength to avoid obvious prevailing of attack or defense at certain historical periods.
 
-There are not many units in general so I also tried to spread their strengths a little to make their usage more interesting. For example, archer is still usable even with swordman around because it is cheaper. Whereas, medieval infantry is superior to longbowman and renders it completely useless. So making longbowman stronger would be a solution.
+Most of the attackers have their slow/fast counterpart as in vanilla. This is just more emphasized.
 
-Late units like tank and modern armor are unnessesarily strong. There is no contemporary units able to compete with them. They are even stronger than battleship. Ridiculous.
+Fast attackers have their defense reduced to about 1/3 of attack. Slow attacker have their defense increased to about 2/3 of attack. This makes them more or less self sufficient entities not requiring defenders support.
 
-### Price
-
-###### Basic pricing multipliers
-| unit type | primary statistics | price multiplier |
-| ---- | ---- | ----: |
-| defender | defense | 10 |
-| foot attacker | attack | 10 |
-| fast attacker | attack | 15 |
-| artillery, bomber | bombard x rate | 5 |
-| fighter | attack | 20 |
-| warship | (attack + defense) / 2 | 30 |
-
-Additional price for units with extra non standard attack/defense ratio (guerilla, TOW infantry) or extra abilities (amphibious).
+Resource requirements for some critical defender units are lifted to ensure everybody can defend well enough.
 
 ## Tables
 
 ### Defenders
 
-| unit | cost | attack | defense | movement | resource |
-| ---- | ----: | ----: | ----: | ----: | :----: |
-| Spearman | 20 | 1 | 2 | 1 |  |
-| Pikeman | 30 | 1 | 3 | 1 | + |
-| Musketman | 40 | 2 | 4 | 1 | + |
-| Rifleman | 60 | 4 | 6 | 1 |  |
-| Infantry | 100 | 6 | 10 | 1 | + |
-| Mech Infantry | 150 | 10 | 15 | 2 | + |
+| unit | advancement | cost | attack | defense | movement | resource | explanation |
+| ---- | ---- | ----: | ----: | ----: | ----: | :----: | ---- |
+| Spearman | | 20 | 1 | 2 | 1 | | |
+| Pikeman | | 40 | 2 | 4 | 1 | | No resource unit to close the gap between spearman and rifleman. |
+| Musketman | Chemistry | 60 | 3 | 6 | 1 | + | Moved later down the tech tree. Otherwise it comes in quick succession after pikeman. |
+| Rifleman | | 80 | 4 | 8 | 1 |  | |
+| Infantry | | 100 | 6 | 10 | 1 | + | |
+| Mech Infantry | Steel | 120 | 8 | 12 | 2 | + | Lowered in tech tree and defender rank. Not an ultimate defender anymore. Logically it should sit on Combustion but it is already packed on a diagram and Steel was completely empty tech. |
+| TOW Infantry | 150 | 12 | 14 | 1 |  | Reclassified as an ultimate anti-tank missile defence unit. There is no need for another attacker in modern era. |
 
-### Foot attackers
+### Attackers
 
-| unit | cost | attack | defense | movement | resource |
-| ---- | ----: | ----: | ----: | ----: | :----: |
-| Archer | 20 | 2 | 1 | 1 |  |
-| Swordsman | 30 | 3 | 1 | 1 | + |
-| Medieval infantry | 40 | 4 | 2 | 1 | + |
-| Longbowman | 50 | 5 | 1 | 1 |  |
-| Guerilla | 90 | 9 | 6 | 1 |  |
-| Marine | 120 | 12 | 6 | 1 |  |
-| TOW Infantry | 150 | 12 | 12 | 1 |  |
-
-### Fast attackers
-
-| unit | cost | attack | defense | movement | resource |
-| ---- | ----: | ----: | ----: | ----: | :----: |
-| Chariot | 20 | 1 | 1 | 2 | + |
-| Horseman | 30 | 2 | 1 | 2 | + |
-| Knight | 60 | 4 | 2 | 2 | + |
-| Cavalry | 90 | 6 | 3 | 3 | + |
-| Tank | 180 | 12 | 6 | 2 | + |
-| Modern Armor | 300 | 18 | 12 | 3 | + |
+| unit | advancement | cost | attack | defense | movement | resource | explanation |
+| ---- | ---- | ----: | ----: | ----: | ----: | :----: | ---- |
+| Archer | | 20 | 2 | 1 | 1 | | |
+| Chariot | | 30 | 2 | 1 | 2 | + | |
+| Swordsman | | 30 | 3 | 2 | 1 | + | |
+| Horseman | | 45 | 3 | 1 | 2 | + | |
+| Longbowman | | 40 | 4 | 3 | 1 | | |
+| Knight | | 60 | 4 | 1 | 2 | + | |
+| Medieval infantry | Physics | 60 | 6 | 4 | 1 | + | New unit in Conquests that was essentially a longbowmen duplicate. Made stronger and appearing later. |
+| Cavalry | | 90 | 6 | 2 | 3 | + | |
+| Guerrilla | Electricity | 80 | 8 | 6 | 1 | | An intermediary attacker between cavalry and marines. Moved slightly early up the tree since not requiring rubber. |
+| Marine | | 120 | 12 | 10 | 1 | | An ultimate slow attacker. Defense increased to make use in sole amphibious operations. |
+| Tank | | 180 | 12 | 6 | 2 | + | |
+| Modern Armor | | 300 | 16 | 8 | 3 | + | |
 
 ### Paratroopers
 
