@@ -1,18 +1,22 @@
-# Government free unit support
+# Governments
 
-No ZOC dictates a different tactics where player cannot operate with limited combat unit groups on a battlefield. Without ZOC everybody need to flood the land with units in attempt to keep enemy units from sneaking into front line gaps. That also requires protecting back cities against flank attacks. All that requires much more units to cities ratio than in Civ 2. With that in mind current free unit supports for different governments are just ridiculously low and will definitely be overflowed during war time. Keep in mind that free unit support includes all units including 2-3 police units and 1-2 worders per city. So even in the peace time cities should maintain like 3-5 units just for police and economical development purposes. That alone may easily overflow free unit tier sucking money from economy. Not to mention supporting regular invasion army. That becomes even more pronounced in modern eras with mixed unit types required (bombardment, air, anti-air, etc.). Therefore, this mod proportionally increases free units support for all governments to make war oriented governments more viable and competing.
+No ZOC dictates a different tactics where player cannot operate with limited combat unit groups on a battlefield. Without ZOC everybody need to flood the land with units in attempt to keep enemy from sneaking into gaps. That also requires protecting back cities against flank attacks. All that requires much more units to cities ratio than in Civ 2. With that in mind current free unit supports for different governments are just ridiculously low and will definitely be overflowed during war time. Keep in mind that free unit support includes all units including 2-3 police units and 1-2 workers per city. So even in the peace time cities should maintain like 3-5 units just for police and economical development purposes. That alone may easily overflow free unit tier sucking money from economy. Not to mention supporting regular invasion army. That becomes even more pronounced in modern eras with mixed unit types required (bombardment, air, anti-air, etc.). Therefore, this mod increases free units support for war oriented governments to make them more viable and competing.
 
-On top of that Feudalism free support is flattened per town/city/metro and further increased. Feudalism unit cost is decreased. It is supposed to be an ultimate war government before Fascism era and with vanilla settings it is some weak breed of Monarchy and Republic.
+Feudalism free support is flattened per town/city/metro and further increased. I don't see much point in slaughtering own citizens to increase army support (???). Feudalism unit cost is decreased. It is supposed to be an ultimate early war oriented viable choice. It sucks at anything else. So should as well be good at army support.
 
-| government | town | city | metro | cost | comment |
-| ---- | ----: | ----: | ----: | ----: | ---- |
-| Despotism | 6 | 6 | 6 | 1 ||
-| Monarchy | 4 | 6 | 8 | 1 | Monarchy usually used early in the game only when player still has a lot of towns but barely few cities and definitely no metros. I have increased town allowance a bit and reduced metro a bit too as it probably won't be used ever in game anyway. |
-| Communism | 9 | 9 | 9 | 1 ||
-| Republic | 2 | 3 | 4 | 2 | Straighten it up slightly. Should be somehow between Monarchy and Democracy. |
-| Democracy | 0 | 0 | 0 | 1 ||
-| Fascism | 5 | 10 | 15 | 1 ||
-| Feudalism | 10 | 10 | 10 | 2 | Feudalism generally sucks comparing to Monarchy and Republic. Since unit support is the only thing it is good for let it be exceptionally good at it. I also make its support indepedent on city sizes. Degressing support is stupid. |
+Republic free support is streamlined for aestetic purposes. I also gave it 1 police to put it somewhat between Democracy and other governments.
+
+Democracy unit cost is increased. I don't see much sense in having it lower than Republic's one for the most income rich government option.
+
+| government | town | city | metro | cost | police |
+| ---- | ----: | ----: | ----: | ----: |
+| Despotism | 4 | 4 | 4 | 1 | 2 |
+| Monarchy | 2 | 4 | 6 | 1 | 3 |
+| Communism | 6 | 6 | 6 | 1 | 4 |
+| Republic | 1 | 2 | 3 | 2 | 1 |
+| Democracy | 0 | 0 | 0 | 3 | 0 |
+| Fascism | 4 | 8 | 12 | 1 | 4 |
+| Feudalism | 8 | 8 | 8 | 1 | 3 |
 
 # Fortress and barricade
 
@@ -195,4 +199,8 @@ First of all, I have reduced minimal research time to 1 turn. I seriously don't 
 Path to Monarchy is eased up a little. This is the first government after despotism and should be accessible much earlier before Republic and Feudalism to disable exceptionally restrictive Despotism yield penalties.
 
 Cities in Civ 3 grow exceptionally fast. They easily fall into stagnation due to aqueduct or hospital inaccessibility which is pretty boring impediment. I don't think players should be artificially restricted like that. Aqueduct is moved to Mathematic. Sanitation is moved as a followup for Engineering. I often saw cities easily grow to 12 in the early middle age and then just sitting at this number for the whole era. Ugh.
+
+## Production multipliers
+
+Railroad already about doubles production. Then factories and power plants come in quick succesion effectively quadroupling production together with railroad. I like production but this is definitely too much. I have cut all factories and power plant bonues in half.
 
