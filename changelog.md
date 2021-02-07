@@ -109,7 +109,7 @@ Resource requirements for some critical defender units are lifted to ensure ever
 | Mech Infantry | Steel | 120 | 8 | 12 | 2 | + | Lowered in tech tree and defender rank. Not an ultimate defender anymore. Logically it should sit on Combustion but it is already packed on a diagram and Steel was completely empty tech. |
 | TOW Infantry | | 160 | 12 | 16 | 2 |  | Reclassified as an ultimate anti-tank missile defence unit. Becomes mobile too. There is no need for another attacker in modern era. |
 
-### Aers
+### Attackers
 
 | unit | advancement | C | A | D | M | R | explanation |
 | ---- | ---- | ----: | ----: | ----: | ----: | :----: | ---- |
