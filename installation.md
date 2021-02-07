@@ -1,6 +1,6 @@
 # Installation instruction
 
-Download release zip files from D:\games\Steam\steamapps\common\Sid Meier's Civilization III Complete\Conquests\Scenarios\civ3-the-will-to-power\modpackage\_releases
+Download release zip files from (here)[https://github.com/tnevolin/civ3-the-will-to-power/tree/master/modpackage/_releases]
 
-Copy everything from modpackage folder into ...\Sid Meier's Civilization III Complete\Conquests\Scenarios folder.
+Unzip everything from release zip file into **...\Sid Meier's Civilization III Complete\Conquests\Scenarios** folder.
 
