@@ -62,7 +62,7 @@ Railroad is insanely overpowered worker job that costs no shields but skyrocket 
 
 # Strategic resources
 
-There are two standing out strategic resources: iron and coal. They are used not only to produce slightly better units but railroad, factories and power plants as well. While inability to produce better unit could be a hindrance, the inability to build railroad/factories/plants is just a disaster that deprives player from doubling their food income and tripling/quadroupling their production. It's just not fair. To make it more evenly distributed I have increased appearance ratio for both iron and coal to 200.
+There are two standing out strategic resources: iron and coal. They are used not only to produce slightly better units but railroad, factories and power plants as well. While inability to produce better unit could be a hindrance, the inability to build railroad/factories/plants is a disaster that deprives player from doubling their food income and tripling/quadroupling their production. It's just not fair. To make it more evenly distributed I have increased appearance ratio for both iron and coal to 200.
 
 Appearance ratio for late resources is increased to 160. It is not really clear to me why only few lucky could build tanks, infantry and ICBM.
 
@@ -91,7 +91,7 @@ Contemporary attackers and defenders have comparable strength to avoid obvious p
 
 Most of the attackers have their slow/fast counterpart as in vanilla. This is just more emphasized.
 
-Fast attackers have their defense reduced to about 1/3 of attack. Slow attacker have their defense increased to about 2/3 of attack. This makes them more or less self sufficient entities not requiring defenders support.
+Slow attacker have their defense increased to make them more or less self sufficient entities not requiring defenders support.
 
 Resource requirements for some critical defender units are lifted to ensure everybody can defend well enough.
 
@@ -102,12 +102,12 @@ Resource requirements for some critical defender units are lifted to ensure ever
 | unit | advancement | C | A | D | M | R | explanation |
 | ---- | ---- | ----: | ----: | ----: | ----: | :----: | ---- |
 | Spearman | | 20 | 1 | 2 | 1 | | |
-| Pikeman | | 30 | 1 | 3 | 1 | | Does not require R to have at least one available defender in era. |
+| Pikeman | | 30 | 1 | 3 | 1 | | Does not require resource to have at least one available defender in era. |
 | Musketman | Chemistry | 40 | 2 | 4 | 1 | + | Moved later down the tech tree. Otherwise it comes in quick succession after pikeman. |
 | Rifleman | | 60 | 4 | 6 | 1 |  | |
 | Infantry | | 90 | 6 | 9 | 1 | + | |
 | Mech Infantry | Steel | 120 | 8 | 12 | 2 | + | Lowered in tech tree and defender rank. Not an ultimate defender anymore. Logically it should sit on Combustion but it is already packed on a diagram and Steel was completely empty tech. |
-| TOW Infantry | | 150 | 12 | 16 | 1 |  | Reclassified as an ultimate anti-tank missile defence unit. There is no need for another Aer in modern era. |
+| TOW Infantry | | 160 | 12 | 16 | 2 |  | Reclassified as an ultimate anti-tank missile defence unit. Becomes mobile too. There is no need for another attacker in modern era. |
 
 ### Aers
 
@@ -118,13 +118,13 @@ Resource requirements for some critical defender units are lifted to ensure ever
 | Swordsman | | 30 | 3 | 2 | 1 | + | |
 | Horseman | | 45 | 3 | 1 | 2 | + | |
 | Longbowman | | 40 | 4 | 3 | 1 | | |
-| Knight | | 60 | 4 | 1 | 2 | + | |
+| Knight | | 60 | 4 | 2 | 2 | + | |
 | Medieval infantry | Physics | 60 | 6 | 4 | 1 | + | New unit in Conquests that was essentially a longbowmen duplicate. Made stronger and appearing later. |
-| Cavalry | | 90 | 6 | 2 | 3 | + | |
-| Guerrilla | Electricity | 90 | 9 | 6 | 1 | | An intermediary Aer between cavalry and marines. Moved slightly early up the tree since not requiring rubber. |
-| Marine | | 120 | 12 | 10 | 1 | | An ultimate slow Aer. D increased to make use in sole amphibious operations. |
-| Tank | | 180 | 12 | 6 | 2 | + | |
-| Modern Armor | | 300 | 16 | 8 | 3 | + | |
+| Cavalry | | 90 | 6 | 3 | 2 | + | Speed reduced to not make it that fast and let cavalry army attack 4 times! |
+| Guerrilla | Electricity | 90 | 9 | 6 | 1 | | An intermediary attacker between cavalry and marines. Moved slightly early up the tree since not requiring rubber. |
+| Marine | | 120 | 12 | 10 | 1 | | An ultimate slow attacker. Defense increased to make use in sole amphibious operations. |
+| Tank | | 180 | 12 | 8 | 2 | + | |
+| Modern Armor | | 240 | 16 | 12 | 3 | + | |
 
 ### Paratroopers
 
@@ -163,7 +163,7 @@ Resource requirements for some critical defender units are lifted to ensure ever
 | Cruiser | 370 | 15 | 10 | 6 | 7 | 1 | 2 |
 | AEGIS Cruiser | 370 | 15 | 10 | 7 | 6 | 2 | 2 |
 | Battleship | 450 | 18 | 12 | 5 | 8 | 2 | 2 |
-| Submarine | 180 | 8 | 4 | 4 | 0 | 0 | 0 |
+| Submarine | 150 | 8 | 4 | 4 | 0 | 0 | 0 |
 | Nuclear Submarine | 200 | 8 | 4 | 5 | 0 | 0 | 0 |
 | Carrier | 250 | 1 | 8 | 7 | 0 | 0 | 0 |
 
