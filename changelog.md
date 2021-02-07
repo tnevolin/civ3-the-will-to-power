@@ -10,13 +10,13 @@ Democracy unit cost is increased. I don't see much sense in having it lower than
 
 | government | town | city | metro | cost | police |
 | ---- | ----: | ----: | ----: | ----: | ----: |
-| Despotism | 4 | 4 | 4 | 1 | 2 |
-| Monarchy | 2 | 4 | 6 | 1 | 3 |
-| Communism | 6 | 6 | 6 | 1 | 4 |
-| Republic | 1 | 2 | 3 | 2 | 1 |
+| Despotism | 6 | 6 | 6 | 1 | 2 |
+| Monarchy | 4 | 6 | 8 | 1 | 3 |
+| Communism | 8 | 8 | 8 | 1 | 4 |
+| Republic | 2 | 3 | 4 | 2 | 1 |
 | Democracy | 0 | 0 | 0 | 3 | 0 |
-| Fascism | 4 | 8 | 12 | 1 | 4 |
-| Feudalism | 8 | 8 | 8 | 1 | 3 |
+| Fascism | 6 | 10 | 14 | 1 | 4 |
+| Feudalism | 10 | 10 | 10 | 1 | 3 |
 
 # Fortress and barricade
 
@@ -61,8 +61,6 @@ Wetlands are absolutely not usable and normally cleaned up to uncover grassland.
 Railroad is insanely overpowered worker job that costs no shields but skyrocket food and shield yield by ridiculous numbers. Not much I can do about it because it is not configurable in editor. I just quadroupled its construction time. Hope this compensates its value.
 
 # Strategic resources
-
-There are two standing out strategic resources: iron and coal. They are used not only to produce slightly better units but railroad, factories and power plants as well. While inability to produce better unit could be a hindrance, the inability to build railroad/factories/plants is a disaster that deprives player from doubling their food income and tripling/quadroupling their production. It's just not fair. To make it more evenly distributed I have increased appearance ratio for both iron and coal to 200.
 
 Appearance ratio for late resources is increased to 160. It is not really clear to me why only few lucky could build tanks, infantry and ICBM.
 

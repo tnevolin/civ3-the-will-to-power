@@ -510,8 +510,8 @@ depending upon how many towns, cities, or metros the civilization controls.
 ^Monarchy				  4		  6		  8
 ^Republic				  2		  3		  4
 ^Feudalism			  	10		10		10
-^Communism			  9		  9		  9
-^Fascism				  5		10		15
+^Communism			  8		  8		  8
+^Fascism				  6		10		14
 ^Democracy			  0		  0		  0
 
 
@@ -4374,7 +4374,7 @@ defined and enforced the laws that governed social interaction. This reduced cri
 ^
 ^
 ^[Walls] can be built only in town-size settlements and provide a land bombardment defense of eight,
-and a 100% defensive bonus to units defending in the town. When a town becomes a city, the walls no longer provide a defensive bonus.
+and a 50% defensive bonus to units defending in the town. When a town becomes a city, the walls no longer provide a defensive bonus.
 #DESC_BLDG_Walls
 ^
 ^
@@ -4457,7 +4457,7 @@ thing of the past, today's colosseums still provide entertainment and diversion 
 #BLDG_Factory
 ^
 ^
-^A [Factory] increases $LINK<shield production=GCON_Shields> in its city by 50%. Building a power plant in the same city
+^A [Factory] increases $LINK<shield production=GCON_Shields> in its city by 25%. Building a power plant in the same city
 increases this bonus. Note that factories produce $LINK<pollution=GCON_Pollution>.
 #DESC_BLDG_Factory
 ^
@@ -4517,7 +4517,7 @@ productivity and reduces production costs.
 #BLDG_Coal_Plant
 ^
 ^
-^The [Coal Plant] increases $LINK<factory=BLDG_Factory> output by 50%.
+^The [Coal Plant] increases $LINK<factory=BLDG_Factory> output by 25%.
 ^It does produce $LINK<pollution=GCON_Pollution>.
 ^It replaces any other power plant in the city. A Factory is required to build a Coal Plant.
 #DESC_BLDG_Coal_Plant
@@ -4534,7 +4534,7 @@ on electricity, researchers are constantly searching for alternate forms of ener
 #BLDG_Hydro_Plant
 ^
 ^
-^The [Hydro Plant] increases $LINK<factory=BLDG_Factory> output by 50%.
+^The [Hydro Plant] increases $LINK<factory=BLDG_Factory> output by 25%.
 ^It produces no $LINK<pollution=GCON_Pollution>.
 ^It replaces any other power plant in the city. A Factory is required to build a Hydro Plant.
 ^
@@ -4553,7 +4553,7 @@ river basin.
 #BLDG_Nuclear_Plant
 ^
 ^
-^The [Nuclear Plant] increases $LINK<factory=BLDG_Factory> output by 100%. 
+^The [Nuclear Plant] increases $LINK<factory=BLDG_Factory> output by 50%. 
 ^It does not create any $LINK<pollution=GCON_Pollution>. A Factory is required to build a Nuclear Plant.
 ^Nuclear Plants can [meltdown], causing all hell to break loose...
 ^
@@ -4574,7 +4574,7 @@ the reactor core if the reaction is not properly controlled. Because of these pr
 #BLDG_Solar_Plant
 ^
 ^
-^The [Solar Plant] increases $LINK<factory=BLDG_Factory> output by 50%.
+^The [Solar Plant] increases $LINK<factory=BLDG_Factory> output by 25%.
 ^It produces no $LINK<pollution=GCON_Pollution>, and replaces any other power plant in the city. A Factory is required to build a 
 Solar Plant.
 #DESC_BLDG_Solar_Plant
@@ -7989,9 +7989,9 @@ all cities suffer the same, limited effects.
 ^Draft Rate						2
 ^Military Police Limit				4
 ^Unit Support
-^    per town					9
-^    per city						9
-^    per metropolis				9
+^    per town					8
+^    per city						8
+^    per metropolis				8
 #DESC_GOVT_Communism
 Communism is a conceptualized system of government in which resources and production facilities are the property
 of the entire society rather than individuals. In a communist society, labor is shared equally as well, and the
@@ -8077,9 +8077,9 @@ governing system in the modern world because of the personal and economic freedo
 ^Draft Rate						2
 ^Military Police Limit				4
 ^Unit Support
-^    per town					5
+^    per town					6
 ^    per city						10
-^    per metropolis				15
+^    per metropolis				14
 #DESC_GOVT_Fascism
 ^
 ^
