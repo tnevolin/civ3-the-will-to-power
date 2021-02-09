@@ -100,11 +100,11 @@ Resource requirements for some critical defender units are lifted to ensure ever
 | unit | advancement | C | A | D | M | R | explanation |
 | ---- | ---- | ----: | ----: | ----: | ----: | :----: | ---- |
 | Spearman | | 20 | 1 | 2 | 1 | | |
-| Pikeman | | 30 | 1 | 3 | 1 | | Does not require resource to have at least one available defender in era. |
-| Musketman | Chemistry | 40 | 2 | 4 | 1 | + | Moved later down the tech tree. Otherwise it comes in quick succession after pikeman. |
+| Pikeman | Code of Laws | 30 | 1 | 3 | 1 | | Does not require resource to build. Moved earlier to match raised attack of swordman and horseman. Otherwise, it is almost never used being superseeded by musketman pretty quickly. |
+| Musketman | | 40 | 2 | 4 | 1 | + | |
 | Rifleman | | 60 | 4 | 6 | 1 |  | |
 | Infantry | | 90 | 6 | 9 | 1 | + | |
-| Mech Infantry | Steel | 120 | 8 | 12 | 2 | + | Lowered in tech tree and defender rank. Not an ultimate defender anymore. Logically it should sit on Combustion but it is already packed on a diagram and Steel was completely empty tech. |
+| Mech Infantry | Motorized Transportation | 120 | 8 | 12 | 2 | + | Lowered in tech tree and defender rank. Not an ultimate defender anymore. |
 | TOW Infantry | | 160 | 12 | 16 | 2 |  | Reclassified as an ultimate anti-tank missile defence unit. Becomes mobile too. There is no need for another attacker in modern era. |
 
 ### Attackers
