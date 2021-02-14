@@ -69,9 +69,9 @@ All resources now have diappearance probability to allow their rotation across t
 | resource | appearance ratio | disappearance probability |
 | ---- | ----: | ----: |
 | Horses | 160 | 200 |
-| Iron | 200 | 200 |
+| Iron | 160 | 200 |
 | Saltpeter | 160 | 200 |
-| Coal | 200 | 200 |
+| Coal | 160 | 200 |
 | Oil | 160 | 100 |
 | Rubber | 160 | 100 |
 | Aluminum | 160 | 100 |
@@ -79,7 +79,7 @@ All resources now have diappearance probability to allow their rotation across t
 
 # Units
 
-Units strength and price is generally well balanced in ancient and medieval eras. Later, however, strange thing happens. Units strength start grwoing rapidly and even jumpy. Whereas, cost almost doesn't grow at all. Combined with quadrupled production power due to factories/plants/railroad it makes discovering new unit a critical winning strategy effectivelly obsoleting swarm of previous generation units.
+Units strength and price is generally well balanced in ancient and medieval eras. Later, however, strange thing happens. Units strength start growing rapidly and even jumpy. Whereas, cost almost doesn't grow at all. Combined with quadrupled production power due to factories/plants/railroad it makes discovering new unit a critical winning strategy effectively obsoleting swarm of previous generation units.
 
 ## Proposed modifications
 
@@ -88,8 +88,6 @@ Units are distributed more evenly across the tech tree. Their strength is modifi
 Contemporary attackers and defenders have comparable strength to avoid obvious prevailing of attack or defense at certain historical periods.
 
 Most of the attackers have their slow/fast counterpart as in vanilla. This is just more emphasized.
-
-Slow attacker have their defense increased to make them more or less self sufficient entities not requiring defenders support.
 
 Resource requirements for some critical defender units are lifted to ensure everybody can defend well enough.
 
@@ -100,12 +98,12 @@ Resource requirements for some critical defender units are lifted to ensure ever
 | unit | advancement | C | A | D | M | R | explanation |
 | ---- | ---- | ----: | ----: | ----: | ----: | :----: | ---- |
 | Spearman | | 20 | 1 | 2 | 1 | | |
-| Pikeman | Code of Laws | 30 | 1 | 3 | 1 | | Does not require resource to build. Moved earlier to match raised attack of swordman and horseman. Otherwise, it is almost never used being superseeded by musketman pretty quickly. |
+| Pikeman | Code of Laws | 30 | 1 | 3 | 1 | | Does not require resource to build. Moved earlier to match raised attack of swordsman and horseman. Otherwise, it is almost never used being superseded by musketman pretty quickly. |
 | Musketman | | 40 | 2 | 4 | 1 | + | |
 | Rifleman | | 60 | 4 | 6 | 1 |  | |
 | Infantry | | 90 | 6 | 9 | 1 | + | |
-| Mech Infantry | Motorized Transportation | 120 | 8 | 12 | 2 | + | Lowered in tech tree and defender rank. Not an ultimate defender anymore. |
-| TOW Infantry | | 160 | 12 | 16 | 2 |  | Reclassified as an ultimate anti-tank missile defence unit. Becomes mobile too. There is no need for another attacker in modern era. |
+| Mechanical Infantry | Motorized Transportation | 120 | 8 | 12 | 2 | + | Lowered in tech tree and defender rank. Not an ultimate defender anymore. |
+| TOW Infantry | | 160 | 12 | 16 | 2 |  | Reclassified as an ultimate anti-tank missile defense unit. Becomes mobile too. There is no need for another attacker in modern era. |
 
 ### Attackers
 
@@ -113,11 +111,11 @@ Resource requirements for some critical defender units are lifted to ensure ever
 | ---- | ---- | ----: | ----: | ----: | ----: | :----: | ---- |
 | Archer | | 20 | 2 | 1 | 1 | | |
 | Chariot | | 30 | 2 | 1 | 2 | + | |
-| Swordsman | | 30 | 3 | 2 | 1 | + | |
+| Swordsman | | 30 | 3 | 1 | 1 | + | |
 | Horseman | | 45 | 3 | 1 | 2 | + | |
-| Longbowman | | 40 | 4 | 3 | 1 | | |
+| Longbowman | | 40 | 4 | 2 | 1 | | |
 | Knight | | 60 | 4 | 2 | 2 | + | |
-| Medieval infantry | Physics | 60 | 6 | 4 | 1 | + | New unit in Conquests that was essentially a longbowmen duplicate. Made stronger and appearing later. |
+| Medieval infantry | Physics | 60 | 6 | 3 | 1 | + | New unit in Conquests that was essentially a longbowman duplicate. Made stronger and appearing later to fill up the gap in late medieval slow attacker. |
 | Cavalry | | 90 | 6 | 3 | 2 | + | Speed reduced to not make it that fast and let cavalry army attack 4 times! |
 | Guerrilla | Electricity | 90 | 9 | 6 | 1 | | An intermediary attacker between cavalry and marines. Moved slightly early up the tree since not requiring rubber. |
 | Marine | | 120 | 12 | 10 | 1 | | An ultimate slow attacker. Defense increased to make use in sole amphibious operations. |
@@ -172,6 +170,12 @@ Resource requirements for some critical defender units are lifted to ensure ever
 | Cruise Missile | 60 | 0 | 0 | 1 | 16 | 4 | 3 |
 | Tactical Nuke | 500 | 0 | 0 | 1 | 0 | 0 | 0 |
 | ICBM | 800 | 0 | 0 | 1 | 0 | 0 | 0 |
+
+# Unit upgrade paths
+
+I tried to streamline upgrade paths wherever possible. Each normal unit upgrades to chain of unique units and the last unique unit upgrades to the next level normal unit. This keeps upgrade paths transparent.
+
+Upgrade paths for warrior, archer, swordsman, longbowman are merged together. They are all considered attacker units and archer/longbowman are not that drastically distinct from warrior/swordsman. So their upgrade path now is: warrior -> archer -> swordsman -> longbowman -> medieval infantry (plus all unique units along the way). I don't see much point to keep producing warriors while archer become awailable. They do make the cheapest police unit in the game but, I guess, game is still perfectly playable without them.
 
 # Research tree
 
