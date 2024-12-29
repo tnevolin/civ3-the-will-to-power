@@ -3926,10 +3926,10 @@ Hotseat
 Play by E-mail
 
 #MP_NO_HOST_WHILE_IN_ROOM
-Host Error: Players remain in Steam lobby.
+Host Error: Players remain in GameSpy Arcade room.
 
 #GAMESPY_WIN_FAILED
-Failed to connect to Steam. Please verify your internet connection, and try again in a few minutes.  You have been switched to viewing only local games.
+No Multiplayer support present.  You have been switched to viewing only local games.
 
 # ; This line must remain at end of file
 

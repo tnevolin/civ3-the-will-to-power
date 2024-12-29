@@ -7,7 +7,7 @@
 
 #LABELS
 Please Wait...
-Attempting to Connect to Steam.
+Attempting to Connect to GameSpy.
 Finished sending saved games.
 Sending save game to player %d...
 Loading Game...
@@ -83,7 +83,6 @@ MODE
 STATE
 PLAYERS
 PING
-Unknown
 Host
 Join
 Refresh

@@ -172,8 +172,8 @@ Defender Combat Bonus
 ^
 ^{Structural Bonuses}
 ^Fortified Units				  +25%
-^Fortress					  +50%
-^Barricade					+100%
+^Fortress					  +25%
+^Barricade					 +50%
 ^Town Walls				  +50%
 ^Civil Defense				  +50%
 ^City						  +50%
@@ -334,7 +334,7 @@ currently controlling the barricade's square, or if that unit has a $LINK<Right 
 agreement through that land. Barricades become a fortress if their square is pillaged.
 ^
 ^Military units inside barricades have a few advantages.
-^* They get a 100% defensive bonus if attacked (i.e., twice the defensive bonus being in a Fortress).
+^* They get a 50% defensive bonus if attacked (i.e., twice the defensive bonus being in a Fortress).
 ^* The $LINK<zone of control=GCON_ZOC> exerted by the fortress still applies to a barricades.
 
 
@@ -1654,7 +1654,7 @@ Worker Actions
 and $LINK<craters=GCON_Craters>. 
 ^
 ^{Build Fortress (Ctrl-F)}
-^Increases a square's $LINK<defensive value=GCON_Terrain_Combat> by 50%.
+^Increases a square's $LINK<defensive value=GCON_Terrain_Combat> by 25%.
 ^
 ^{Build Barricade (Ctrl-F)}
 ^Turns Fortress into Barricade, doubling the square's $LINK<defensive value=GCON_Terrain_Combat>.
@@ -1857,7 +1857,7 @@ laboring there produce food. When the [City Display] is open, you can see what t
 ^Marsh						1	cannot be irrigated.
 ^Coastal					2	cannot be irrigated.
 ^Sea						2	cannot be irrigated.
-^Ocean						2	cannot be irrigated.
+^Ocean						0	cannot be irrigated.
 ^Jungle						1	cannot be irrigated.
 ^Tundra					1	cannot be irrigated.
 ^Fresh Water Lake			2	cannot be irrigated.
@@ -1887,7 +1887,7 @@ laboring there produce shields. When the [City Display] is open, you can see wha
 ^Plains					1	2 if mined.
 ^Hills					1	3 if mined.
 ^Mountains				1	4 if mined.
-^Tundra				0	1 if mined.
+^Tundra				1	2 if mined.
 ^Desert				2	3 if mined.
 ^Forest				2	cannot be mined.
 ^Marsh					0	cannot be mined.
@@ -1955,7 +1955,7 @@ Fortresses
 ^
 ^When a civilization has learned $LINK<construction=TECH_Construction>, its workers know how to construct
 stone and masonry [fortresses]. Military units inside these bastions have a few advantages.
-^* They get a 50% defensive bonus if attacked.
+^* They get a 25% defensive bonus if attacked.
 ^* They have a $LINK<zone of control=GCON_ZOC> and fire at passing enemy units without receiving return fire.
 ^
 ^
@@ -8179,7 +8179,7 @@ Also, units moving along roads expend one third of a movement point per square, 
 #TFRM_Fortress
 ^
 ^
-^Units within a fortress enjoy a +50% defensive bonus, as well as a $LINK<zone of control=GCON_ZOC>.
+^Units within a fortress enjoy a +25% defensive bonus, as well as a $LINK<zone of control=GCON_ZOC>.
 ^
 ^Workers are ordered to build fortresses by pressing [Ctrl-F], or the "Build Fortification" button.
 
