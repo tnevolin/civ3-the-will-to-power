@@ -4,26 +4,27 @@ The Will to Power is a playing experience enhancement mod for Civilization 3 Con
 
 The purpose of the mod is to make playing experience smoother and long lasting.
 
-# Research
+## Research
 
 * Minimal research time is reduced to 1 turn. No point in artificial technology development impediment.
 * Path to Monarchy is eased up a little. This is the first government after despotism and should be accessible much earlier before Republic and Feudalism to lift exceptionally restrictive yield penalties.
-* Aqueduct is moved to Mathematic. Sanitation is moved as Engineering successor. Cities in Civ 3 grow exceptionally fast. They easily fall into stagnation due to aqueduct or hospital inaccessibility which is pretty boring impediment.
+* Aqueduct is moved to Mathematic. Sanitation is moved as Engineering successor. Cities grow exceptionally fast. They easily fall into stagnation due to aqueduct or hospital inaccessibility which is pretty boring impediment.
+* Map Making enables sea movement. Astronomy enables ocean movement. This is to facilitate island transportation and discovery. Otherwise, it takes too long.
 
-# Units
+## Units
 
 * Slight changes to make sure all units are usable in their time.
 * Unit strength does not jump too fast allowing previous generation units to play their role.
 * Cost of more powerful units is increased as strength advantage is a serious bonus in this game.
 
-## Upgrade paths
+### Upgrade paths
 
 I tried to streamline upgrade paths wherever possible. Each normal unit upgrades to chain of unique units and the last unique unit upgrades to the next level normal unit. This keeps upgrade paths transparent.
 
 * Upgrade paths for archer, swordsman, longbowman are merged together. They are all considered attacker units and archer/longbowman are not that drastically distinct from warrior/swordsman. So their upgrade path now is: archer/swordsman -> longbowman -> medieval infantry (plus all unique units along the way).
 * Warrior upgrades to Longbowman. Never used them after that point.
 
-## Concepts
+### Concepts
 
 * Overall unit strength progression is smoothened out to avoid immediate previous generation obsoletion.
 * Units withing classes are spreaded out along tech tree to prolong their use.
@@ -37,56 +38,61 @@ I tried to streamline upgrade paths wherever possible. Each normal unit upgrades
 * Early ships movement rate increased by 1 to let them cross gaps between land easier.
 * Transport capacity is doubled to make them usable in transferring large armies.
 * Warship bombardment range is increased tremendously to assist in land operations.
-* Map Making enables sea movement. Astronomy enables ocean movement. This is to facilitate island transportation and discovery. Otherwise, it takes too long.
-
-## Tables
-
-C = cost, A = attack, D = defense, M = moves, R = requires resouces
 
 ### Defenders
 
-| unit | era | advancement | C | A | D | M | R | changes |
-| ---- | ---- | ---- | ----: | ----: | ----: | ----: | :----: | ---- |
-| Spearman | Ancient Times - early | Bronze Working | 20 | 1 | 2 | 1 |  |  |
-| Pikeman | Ancient Times - late | Code of Laws | 30 | 1 | 3 | 1 |  | Appears earlier to prolong life span. |
-| Musketman | Middle Ages - middle | Chemistry | 40 | 2 | 4 | 1 | + | Appears slightly later to spread out between Pikeman and Rifleman. |
-| Rifleman | Industrial Ages - early | Nationalizm | 60 | 3 | 6 | 1 |  |  |
-| Infantry | Industrial Ages - middle | Steel | 90 | 4 | 8 | 1 | + | Appears closer to mid era to spread out between Rifleman and Mech Inf. |
-| Mechanical Infantry | Modern Times - early | Motorized Transportation | 120 | 5 | 10 | 2 | + |  |
-| TOW Infantry | Modern Times - late | Smart Weapons | 160 | 6 | 12 | 2 |  | An ultimate anti-tank mobile missile defense. There is no need for another attacker in modern era. |
+| unit | era | advancement | cost | att | def | mov | res |
+| ---- | ---- | ---- | ----: | ----: | ----: | ----: | :----: |
+| Spearman | Ancient Times - early | Bronze Working | 20 | 1 | 2 | 1 |  |
+| Pikeman | Ancient Times - late | Code of Laws | 30 | 1 | 3 | 1 |  |
+| Musketman | Middle Ages - middle | Chemistry | 40 | 2 | 4 | 1 | + |
+| Rifleman | Industrial Ages - early | Nationalizm | 60 | 3 | 6 | 1 |  |
+| Infantry | Industrial Ages - middle | Steel | 90 | 4 | 8 | 1 | + |
+| Mechanical Infantry | Modern Times - early | Motorized Transportation | 120 | 5 | 10 | 2 | + |
+| TOW Infantry | Modern Times - late | Smart Weapons | 160 | 6 | 12 | 2 |  |
+
+* Pikeman, Musketman are slightly moved around the tech tree to spread out and utilize their usage time.
+* Infantry is moved to a different research branch (Steel) but it still uses rubber (Replaceable Parts). This way it becomes slightly more difficult to beeline from the beginning of the age.
+* TOW is reclassificed as an ultimate anti-tank mobile missile defense. There is no need for another attacker in modern era.
 
 ### Slow Attackers
 
-| unit | era | advancement | C | A | D | M | R | changes |
-| ---- | ---- | ---- | ----: | ----: | ----: | ----: | :----: | ---- |
-| Archer | Ancient Times - early | Warrior Code | 20 | 2 | 1 | 1 |  |  |
-| Swordsman | Ancient Times - early | Iron Works | 30 | 3 | 2 | 1 | + |  |
-| Longbowman | Middle Ages - early | 40 | 4 | 3 | 1 |  | More defense to survive in the field. |
-| Medieval infantry | Middle Ages - late | Physics | 60 | 6 | 4 | 1 | + | Reclassified as next generation attacker between Longbowman and Guerilla by both strength and appearance time. |
-| Guerilla | Industrial Ages - early | Electricity | 90 | 8 | 5 | 1 | | An intermediary attacker between Medieval Inf and Marines. |
-| Marine | Industrial Ages - late | Amphibious War | 120 | 10 | 7 | 1 |  |  |
+| unit | era | advancement | cost | att | def | mov | res |
+| ---- | ---- | ---- | ----: | ----: | ----: | ----: | :----: |
+| Archer | Ancient Times - early | Warrior Code | 20 | 2 | 1 | 1 |  |
+| Swordsman | Ancient Times - early | Iron Works | 30 | 3 | 2 | 1 | + |
+| Longbowman | Middle Ages - early | 40 | 4 | 3 | 1 |  |
+| Medieval infantry | Middle Ages - late | Physics | 60 | 6 | 4 | 1 | + |
+| Guerilla | Industrial Ages - early | Electricity | 90 | 8 | 5 | 1 |  |
+| Marine | Industrial Ages - late | Amphibious War | 120 | 10 | 7 | 1 |  |
+
+* Longbowman is tougher than Knight to serve as field defender.
+* Medieval infantry is another copy of Longbowman and Knight appearing at the same time. Reclassified as next generation foot attacker between Longbowman and Guerilla by both strength and appearance time.
+* Guerilla moved earlier to increase its lifespan before Marine obsolete it. Also reclassified as an attacker with increased offense strength.
 
 ### Fast Attackers
 
-| unit | era | advancement | C | A | D | M | R | explanation |
-| ---- | ---- | ---- | ----: | ----: | ----: | ----: | :----: | ---- |
-| Chariot | Ancient Times - early | The Wheel | 30 | 2 | 1 | 2 | + |  |
-| Horseman | Ancient Times - late | Horseback Riding | 45 | 3 | 1 | 2 | + |  |
-| Knight | Middle Ages - early | Chivalry | 60 | 4 | 2 | 2 | + |  |
-| Cavalry | Middle Ages - late | Military Tradition | 90 | 6 | 2 | 2 | + | Speed reduced to match all mounted units. |
-| Tank | Industrial Ages - late | Motorized Transportation | 180 | 12 | 4 | 2 | + |  |
-| Modern Armor | Modern Times - early | Synthetic Fibers | 240 | 16 | 6 | 3 | + |  |
+| unit | era | advancement | cost | att | def | mov | res |
+| ---- | ---- | ---- | ----: | ----: | ----: | ----: | :----: |
+| Chariot | Ancient Times - early | The Wheel | 30 | 2 | 1 | 2 | + |
+| Horseman | Ancient Times - late | Horseback Riding | 45 | 3 | 1 | 2 | + |
+| Knight | Middle Ages - early | Chivalry | 60 | 4 | 2 | 2 | + |
+| Cavalry | Middle Ages - late | Military Tradition | 90 | 6 | 2 | 2 | + |
+| Tank | Industrial Ages - late | Motorized Transportation | 180 | 12 | 4 | 2 | + |
+| Modern Armor | Modern Times - early | Synthetic Fibers | 240 | 16 | 6 | 3 | + |
+
+* Cavalry speed reduced to match all mounted units and not be as fast as modern tank.
 
 ### Paratroopers
 
-| unit | era | advancement | C | A | D | M | R |
+| unit | era | advancement | cost | att | def | mov | res |
 | ---- | ---- | ---- | ----: | ----: | ----: | ----: | :----: |
 | Paratrooper | Industrial Ages - late | Advanced Flight | 130 | 4 | 9 | 1 | + |
 | Modern Paratrooper | Modern Times - early | Synthetic Fibers | 180 | 6 | 12 | 1 | + |
 
 ### Artillery
 
-| unit | era | advancement | C | M | bombardment | range | rate of fire |
+| unit | era | advancement | cost | mov | bomb | range | rate |
 | ---- | ---- | ---- | ----: | ----: | ----: | ----: | ----: |
 | Catapult | Ancient Times - early | Mathematics | 20 | 1 | 8 | 1 | 1 |
 | Trebuchet | Middle Ages - early | Engineering | 30 | 1 | 12 | 1 | 1 |
@@ -96,7 +102,7 @@ C = cost, A = attack, D = defense, M = moves, R = requires resouces
 
 ### Aircrafts
 
-| unit | era | advancement | C | A | D | M | bombardment | range | rate of fire |
+| unit | era | advancement | cost | att | def | mov | bomb | range | rate |
 | ---- | ---- | ---- | ----: | ----: | ----: | ----: | ----: | ----: | ----: |
 | Fighter | Industrial Ages - late | Flight | 80 | 4 | 2 | 1 | 3 | 6 | 1 |
 | Bomber | Industrial Ages - late | Flight | 180 | 0 | 2 | 1 | 12 | 10 | 3 |
@@ -106,7 +112,7 @@ C = cost, A = attack, D = defense, M = moves, R = requires resouces
 
 ### Transports
 
-| unit | era | advancement | C | A | D | M | capacity |
+| unit | era | advancement | cost | att | def | mov | capacity |
 | ---- | ---- | ---- | ----: | ----: | ----: | ----: | ----: |
 | Curragh | Ancient Times - early | Alphabet | 15 | 1 | 1 | 3 | 2 |
 | Galley | 	Ancient Times - late | Map Making | 30 | 1 | 1 | 4 | 4 |
@@ -116,7 +122,7 @@ C = cost, A = attack, D = defense, M = moves, R = requires resouces
 
 ### Warships
 
-| unit | era | advancement | C | A | D | M | bombardment | range | rate of fire |
+| unit | era | advancement | cost | att | def | mov | bomb | range | rate |
 | ---- | ---- | ---- | ----: | ----: | ----: | ----: | ----: | ----: | ----: |
 | Curragh | Ancient Times - early | Alphabet | 15 | 1 | 1 | 3 | 0 | 0 | 0 |
 | Frigate | Middle Ages - late | Magnetism | 60 | 2 | 2 | 5 | 3 | 3 | 2 |
@@ -131,31 +137,37 @@ C = cost, A = attack, D = defense, M = moves, R = requires resouces
 
 ### Missiles
 
-| unit | era | advancement | C | A | D | M | bombardment | range | rate of fire |
+| unit | era | advancement | cost | att | def | mov | bomb | range | rate |
 | ---- | ---- | ---- | ----: | ----: | ----: | ----: | ----: | ----: | ----: |
 | Cruise Missile | Modern Times - early | Rocketry | 60 | 0 | 0 | 1 | 16 | 4 | 3 |
 | Tactical Nuke | Modern Times - early | Space Flight | 500 | 0 | 0 | 1 | 0 | 0 | 0 |
 | ICBM | Modern Times - middle | Satellites | 800 | 0 | 0 | 1 | 0 | 0 | 0 |
 
-# Governments
+## Governments
 
 No ZOC dictates a different tactics where player cannot operate with limited combat unit groups on a battlefield. Without ZOC everybody need to flood the land with units in attempt to keep enemy from sneaking into gaps. That also requires protecting back cities against flank attacks. All that requires much more units to cities ratio than in Civ 2. With that in mind current free unit support for different governments is ridiculously low and will definitely be overflowed during war time. Keep in mind that free unit support applies to all units including police and workers. That becomes even more pronounced in modern eras with mixed unit types required (bombardment, air, anti-air, etc.). Therefore, this mod increases free units support for war oriented governments to make them more viable and competing.
 
 * Support is same for all city sizes.
 
-| government | town | city | metro | cost | police | change |
-| ---- | ----: | ----: | ----: | ----: | ----: | ---- |
-| Despotism | 6 | 6 | 6 | 1 | 2 |  |
-| Monarchy | 4 | 4 | 4 | 1 | 3 | Slightly less support. |
-| Communism | 6 | 6 | 6 | 1 | 4 |  |
-| Republic | 1 | 1 | 1 | 2 | 1 | Reduced support. |
-| Democracy | 0 | 0 | 0 | 3 | 0 | Reduced support. |
-| Fascism | 8 | 8 | 8 | 1 | 4 |  |
-| Feudalism | 8 | 8 | 8 | 2 | 3 | Increased support for viable war option in middle ages. |
+| government | `town` | `city` | `metr` | cost | police |
+| ---- | ----: | ----: | ----: | ----: | ----: |
+| Despotism | 6 | 6 | 6 | 1 | 2 |
+| Monarchy | 4 | 4 | 4 | 1 | 3 |
+| Feudalism | 8 | 8 | 8 | 2 | 3 |
+| Communism | 6 | 6 | 6 | 1 | 4 |
+| Fascism | 10 | 10 | 10 | 1 | 4 |
+| Republic | 1 | 1 | 1 | 2 | 1 |
+| Democracy | 0 | 0 | 0 | 3 | 0 |
 
-# Terrain and improvements
+* Monarchy support is reduced to weaken it comparing to Despotism and Feudalism.
+* Feudalism unit cost is reduced and support is seriosly increased. Otherwise, it is completely inferior to Monarchy. Now it is useful to wage massive war.
+* Fascism support is seriosly increased to make it an ultimate mass war choice in modern era.
+* Republic support is seriously decreased and unit cost increased to reduce its appeal as the best and universal government of all eras. Now it is impossible to wage massive and long wars with it.
+* Same with Democracy: an ultimate peaceful development choice.
 
-## Fortress and barricade
+## Terrain and improvements
+
+### Fortress and barricade
 
 Without ZOC it is useless to build fortifications in key strategic location as invaders will just go around them. Therefore, vanilla fortresses are just never used even by human player. Fortress construction time should be *very* short so workers may erect them in large quantities even during hot war on some tactical directions.
 
@@ -163,44 +175,40 @@ Without ZOC it is useless to build fortifications in key strategic location as i
 * Fortress is available from start.
 * Fortress and barricade defence bonus is decreased to 25% (50% combined) so they do not confer more protection than city walls. Otherwise, player would be tempted to just surround cities with barricades which is ridiculous.
 
-## Defense bonuses
+### Defense bonuses
 
 All ridiculous 10% bonuses on flat terrains and water (?) are removed. All mountains including volcano are 100%. Simple and easy to remember.
 
-## Wetland
+### Wetland
 
 Wetlands are absolutely not usable and normally cleaned up to uncover grassland. I don't even understand why they are in a game if they are cleanable? Some sort of mini game that leads absolutely nowhere but just waste worker time. As such I don't absolutely see a point for them to be cleaned for such ridiculously long time. Therefore, I have significantly reduced wetland cleanup time. Player also can found cities direcly on wetland.
 
-## Railroad
+### Railroad
 
 Railroad is insanely overpowered not requiring investment/maintenance but skyrocketing food and shield yield by ridiculous numbers. Not much I can do about it because it is not configurable in editor. I just quadroupled its construction time. Hope this compensates its value.
 
-## Yield
+### Yield
 
 The game is strangely restrictive on food. Only terrain supporting further growth are grassland and flood plains and there are not many of them on a map. Everything else is progressively less interesting. There is no much land in game already and about 2/3 of it is filled by 0/1 food terrain. I don't think this is fixable for land tiles as a single unit food addition is going to break a game. However, I believe we can safely add extra food to coast tiles. That will at least sustain cities on tundras a little more.
 
 Same story with shields. I feel like desert and mountains are most unattractive land types which player tries to avoid like a plague. If not food, we should give them more shields to encourage settlements there. This will add some production value to desert and mountains and make them not inferior to hills.
 
-### Terrain yield changes
-
-| terrain | food | shields | commerce | irrigation | mining | road | change |
-| ---- | ----: | ----: | ----: | ----: | ----: | ----: | ---- |
-| Desert | 0 | 2 | 0 | +1 | +1 | +1 | more shields |
-| Tundra | 1 | 1 | 0 | +1 | +1 | +1 | irrigable, equal to plain |
-| Hills | 1 | 1 | 0 | +1 | +2 | +1 | irrigable to support cities in mountain ranges |
-| Mountains | 0 | 1 | 0 | - | +3 | +1 | ultimate shield producer |
+| terrain | food | shields | commerce | irrigation | mining | road |
+| ---- | ----: | ----: | ----: | ----: | ----: | ----: |
+| Desert | 0 | 2 | 0 | +1 | +1 | +1 |
+| Tundra | 1 | 1 | 0 | +1 | +1 | +1 |
+| Hills | 1 | 1 | 0 | +1 | +2 | +1 |
+| Mountains | 0 | 1 | 0 | - | +3 | +1 |
 | Coast | 2 | 0 | 2 | - | - | - |
 | Sea | 2 | 0 | 1 | - | - | - |
 
-# Buildings
+* Desert generates one more shield to be viable as a production source at least.
+* Tundra is irrigable making it possible to settle on.
+* Hills are irrigable to minimally support cities in mountain ranges without access to normal food terrain.
+* Mountains are ultimate shield producer. Should shine next to flood plains or other food sources.
+* Coast and Sea generate one more food to sustain harsh terrain (Desert, Tundra, Hills, Mountains) works good with Harbor.
 
-## Barracks cost/maintenance
-
-Barracks effectively add 1/3 on top of unit strength which is about same in unit count. So they pay off for themselves as soon as city invests [barracks cost * 3] in units. With 20 shields vanilla barracks cost it equals to three spearmen/archers or two horsemen/swordsmen. That is like nothing in the world of Civ 3 combat where units floods the battlefield. Obviously, building such cheap barracks before producing any units is no brainer. This mod increases barracks cost and maintenance to slightly correct the situation. Yet it is still must have improvement before full scale war.
-
-* Barracks cost/maintenance: 6/2
-
-# Strategic resources
+### Strategic resources
 
 * Appearance ratio for late resources is increased to 160. It is not really clear to me why only few lucky could build tanks, infantry and ICBM.
 * All resources now have diappearance probability to allow their rotation across the globe. Disappearance probability for all resources is about doubled to increase their rotation frequency across the globe. This way each player has more chance to acquire/lose resource during the play. More fair this way and less dependency on dumb luck.
@@ -216,7 +224,15 @@ Barracks effectively add 1/3 on top of unit strength which is about same in unit
 | Aluminum | 160 | 100 |
 | Uranium | 160 | 50 |
 
-# Production multipliers
+## Buildings
+
+### Barracks
+
+Barracks effectively add 1/3 on top of unit strength which is about same in unit count. So they pay off for themselves as soon as city invests [barracks cost * 3] in units. With 20 shields vanilla barracks cost it equals to three spearmen/archers or two horsemen/swordsmen. That is like nothing in the world of Civ 3 combat where units floods the battlefield. Obviously, building such cheap barracks before producing any units is no brainer. This mod increases barracks cost and maintenance to slightly correct the situation. Yet it is still must have improvement before full scale war.
+
+* Barracks cost/maintenance: 6/2
+
+### Production multipliers
 
 Railroad already about doubles production. Then factories and power plants come in quick succesion effectively quadroupling production together with railroad. I like production but this is definitely too much. I have cut all factories and power plant bonues in half.
 
