@@ -81,7 +81,7 @@ I tried to streamline upgrade paths wherever possible. Each normal unit upgrades
 | Knight | Middle Ages - early | Chivalry | 60 | 4 | 2 | 2 | + |
 | Cavalry | Middle Ages - late | Military Tradition | 90 | 6 | 2 | 2 | + |
 | Tank | Industrial Ages - late | Motorized Transportation | 180 | 12 | 6 | 2 | + |
-| Modern Armor | Modern Times - early | Synthetic Fibers | 240 | 15 | 10 | 3 | + |
+| Modern Armor | Modern Times - early | Synthetic Fibers | 240 | 16 | 10 | 3 | + |
 
 * Cavalry speed reduced to match all mounted units and not be as fast as modern tank.
 
