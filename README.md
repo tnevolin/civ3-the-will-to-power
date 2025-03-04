@@ -65,7 +65,7 @@ I tried to streamline upgrade paths wherever possible. Each normal unit upgrades
 | Longbowman | Middle Ages - early | 40 | 4 | 3 | 1 |  |
 | Medieval infantry | Middle Ages - late | Physics | 60 | 6 | 4 | 1 | + |
 | Guerilla | Industrial Ages - early | Electricity | 90 | 8 | 5 | 1 |  |
-| Marine | Industrial Ages - late | Amphibious War | 120 | 10 | 8 | 1 |  |
+| Marine | Industrial Ages - late | Amphibious War | 120 | 10 | 7 | 1 |  |
 
 * Longbowman is tougher than Knight to serve as field defender.
 * Medieval infantry is another copy of Longbowman and Knight appearing at the same time. Reclassified as next generation foot attacker between Longbowman and Guerilla by both strength and appearance time.
