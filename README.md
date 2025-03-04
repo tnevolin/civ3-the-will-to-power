@@ -31,7 +31,8 @@ I tried to streamline upgrade paths wherever possible. Each normal unit upgrades
 * Defenders are cheap and tough but weak.
 * Attackers are about 50% stronger than same era defenders. They easily beat them on flat land but not that easy in rough terrain and cities.
 * Slow attackers are moderately tough. They can survive in rought terrain and play supportive defense role.
-* Fast attackers are very fragile and cannot withstand the counterattack. They still benefit from first strike and disengagement.
+* Fast (mounted) attackers are fragile and cannot withstand the counterattack. They still benefit from first strike and disengagement.
+* The above does not apply to motorized/armored modern attackers. The era of the foot soldiers sunset so they have better defense/offense ratio similar to previous era foot soldiers.
 * Basic ealry defenders (Spearman, Pikeman, Rifleman) do not require resourses to ensure adequate defense at all times.
 * Fast attackers are more fragile and demand extra protection.
 * Artillery strength is doubled to make them more usable in not even that huge groups.
@@ -64,11 +65,12 @@ I tried to streamline upgrade paths wherever possible. Each normal unit upgrades
 | Longbowman | Middle Ages - early | 40 | 4 | 3 | 1 |  |
 | Medieval infantry | Middle Ages - late | Physics | 60 | 6 | 4 | 1 | + |
 | Guerilla | Industrial Ages - early | Electricity | 90 | 8 | 5 | 1 |  |
-| Marine | Industrial Ages - late | Amphibious War | 120 | 10 | 7 | 1 |  |
+| Marine | Industrial Ages - late | Amphibious War | 120 | 10 | 8 | 1 |  |
 
 * Longbowman is tougher than Knight to serve as field defender.
 * Medieval infantry is another copy of Longbowman and Knight appearing at the same time. Reclassified as next generation foot attacker between Longbowman and Guerilla by both strength and appearance time.
 * Guerilla moved earlier to increase its lifespan before Marine obsolete it. Also reclassified as an attacker with increased offense strength.
+* Marine is slightly tougher as the last standing foot soldier to still be somewhat useful in early tak era.
 
 ### Fast Attackers
 
@@ -78,8 +80,8 @@ I tried to streamline upgrade paths wherever possible. Each normal unit upgrades
 | Horseman | Ancient Times - late | Horseback Riding | 45 | 3 | 1 | 2 | + |
 | Knight | Middle Ages - early | Chivalry | 60 | 4 | 2 | 2 | + |
 | Cavalry | Middle Ages - late | Military Tradition | 90 | 6 | 2 | 2 | + |
-| Tank | Industrial Ages - late | Motorized Transportation | 180 | 12 | 4 | 2 | + |
-| Modern Armor | Modern Times - early | Synthetic Fibers | 240 | 16 | 6 | 3 | + |
+| Tank | Industrial Ages - late | Motorized Transportation | 180 | 12 | 6 | 2 | + |
+| Modern Armor | Modern Times - early | Synthetic Fibers | 240 | 15 | 10 | 3 | + |
 
 * Cavalry speed reduced to match all mounted units and not be as fast as modern tank.
 
