@@ -150,13 +150,13 @@ I found myself using about 1-3 combat units per city at all time. More is usuall
 
 | government | applicable era | `town` | `city` | `metr` | cost | police | selling point |
 | ---- | ---- | ----: | ----: | ----: | ----: | ----: | ---- |
-| Despotism | Ancient Times |  6 | 6 | 6 | 1 | 2 | Good support for towns |
-| Monarchy | Ancient Times - Middles Ages | 2 | 4 | 6 | 1 | 3 | No war weareness |
-| Feudalism | Middles Ages - Industrial Ages | 6 | 8 | 10 | 2 | 3 | Massive army support |
-| Communism | Industrial Ages - Modern Times | 4 | 6 | 8 | 1 | 4 | Low corruption in large empire |
-| Fascism | Industrial Ages - Modern Times | 6 | 8 | 10 | 1 | 4 | Massive army support, performant workers |
-| Republic | Middles Ages - Industrial Ages | 0 | 2 | 4 | 2 | 1 | Money cow |
-| Democracy | Industrial Ages - Modern Times | 0 | 0 | 0 | 3 | 0 | Super money cow |
+| Despotism | Ancient |  6 | 6 | 6 | 1 | 2 | Good support for towns |
+| Monarchy | Ancient - Middle | 2 | 4 | 6 | 1 | 3 | No war weareness |
+| Feudalism | Middle - Industrial | 6 | 8 | 10 | 2 | 3 | Massive army support |
+| Communism | Industrial - Modern | 4 | 6 | 8 | 1 | 4 | Low corruption in large empire |
+| Fascism | Industrial - Modern | 6 | 8 | 10 | 1 | 4 | Massive army support |
+| Republic | Middle - Industrial | 0 | 2 | 4 | 2 | 1 | Money cow |
+| Democracy | Industrial - Modern | 0 | 0 | 0 | 3 | 0 | Super money cow |
 
 * Democracy is the biggest money cow and pays for units a lot even at peace time.
 * Republic metroes support minimal 1 police + 1 worker. Anything above is pricey.
