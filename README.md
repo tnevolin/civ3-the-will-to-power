@@ -155,7 +155,7 @@ I found myself using about 1-3 combat units per city at all time. More is usuall
 | Feudalism | Middle - Industrial | 6 | 8 | 10 | 2 | 3 | Massive army support |
 | Communism | Industrial - Modern | 4 | 6 | 8 | 1 | 4 | Low corruption in large empire |
 | Fascism | Industrial - Modern | 6 | 8 | 10 | 1 | 4 | Massive army support |
-| Republic | Middle - Industrial | 0 | 2 | 4 | 2 | 1 | Money cow |
+| Republic | Middle - Industrial | 0 | 1 | 2 | 2 | 1 | Money cow |
 | Democracy | Industrial - Modern | 0 | 0 | 0 | 3 | 0 | Super money cow |
 
 * Democracy is the biggest money cow and pays for units a lot even at peace time.
