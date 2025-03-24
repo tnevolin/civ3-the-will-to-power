@@ -152,19 +152,19 @@ I found myself using about 1-3 combat units per city at all time. More is usuall
 | ---- | ---- | ----: | ----: | ----: | ----: | ----: | ---- |
 | Despotism | Ancient |  6 | 6 | 6 | 1 | 2 | Good support for towns |
 | Monarchy | Ancient - Middle | 2 | 4 | 6 | 1 | 3 | No war weareness |
-| Feudalism | Middle - Industrial | 6 | 8 | 10 | 2 | 3 | Massive army support |
+| Feudalism | Middle - Industrial | 3 | 6 | 9 | 2 | 3 | Massive army support |
 | Communism | Industrial - Modern | 4 | 6 | 8 | 1 | 4 | Low corruption in large empire |
-| Fascism | Industrial - Modern | 6 | 8 | 10 | 1 | 4 | Massive army support |
+| Fascism | Industrial - Modern | 5 | 7 | 9 | 1 | 4 | Massive army support |
 | Republic | Middle - Industrial | 0 | 1 | 2 | 2 | 1 | Money cow |
 | Democracy | Industrial - Modern | 0 | 0 | 0 | 3 | 0 | Super money cow |
 
 * Democracy is the biggest money cow and pays for units a lot even at peace time.
 * Republic metroes support minimal 1 police + 1 worker. Anything above is pricey.
 * Monarchy cities support minimal 3 police + 1 worker. Anything above costs a little. Becomes obsolete in Industrial Ages.
-* Feudalism allows almost unlimited army. Otherwise, it is completely inferior to Monarchy. Now it is at least useful to wage massive war.
-* Communism supports police/workers plus minimal army but quite low corruption for large empires.
-* Fascism support is seriosly increased to make it an ultimate mass war choice in modern era.
-* Republic support is seriously decreased and unit cost increased to reduce its appeal as the best and universal government of all eras. Now it is impossible to wage massive and long wars with it.
+* Feudalism allows 2 extra military units per city on top of police/worker support. Useful to wage massive war.
+* Communism supports police/workers plus minimal army. Corruption is low for large empires.
+* Fascism support is increased to make it an ultimate mass war choice in modern era.
+* Republic support is decreased and unit cost increased to reduce its appeal as the most universal government of all eras. Now it is impossible to wage massive and long wars with it.
 * Democracy is an ultimate peaceful development choice heavily penalized for ANY units.
 
 # Terrain and improvements
