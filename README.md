@@ -148,15 +148,15 @@ I tried to streamline upgrade paths wherever possible. Each normal unit upgrades
 
 I found myself using about 1-3 combat units per city at all time. More is usually not needed as they die in war. All support is linear for town-city-metro to avoid sudden support jump by founding/captuing a small town and encourage growing metroes.
 
-| government | applicable era | `town` | `city` | `metr` | cost | police | selling point |
-| ---- | ---- | ----: | ----: | ----: | ----: | ----: | ---- |
-| Despotism | Ancient |  6 | 6 | 6 | 1 | 2 | Good support for towns |
-| Monarchy | Ancient - Middle | 2 | 4 | 6 | 1 | 3 | No war weareness |
-| Feudalism | Middle - Industrial | 3 | 6 | 9 | 2 | 3 | Massive army support |
-| Communism | Industrial - Modern | 4 | 6 | 8 | 1 | 4 | Low corruption in large empire |
-| Fascism | Industrial - Modern | 5 | 7 | 9 | 1 | 4 | Massive army support |
-| Republic | Middle - Industrial | 0 | 1 | 2 | 2 | 1 | Money cow |
-| Democracy | Industrial - Modern | 0 | 0 | 0 | 3 | 0 | Super money cow |
+| government | `town` | `city` | `metr` | cost | police | selling point |
+| ---- | ----: | ----: | ----: | ----: | ----: | ---- |
+| Despotism | 6 | 6 | 6 | 1 | 2 | Good support for early war |
+| Monarchy | 4 | 4 | 4 | 1 | 3 | No war weareness |
+| Feudalism | 4 | 6 | 8 | 2 | 3 | Massive army support |
+| Communism | 4 | 5 | 6 | 1 | 4 | Low corruption in large empire |
+| Fascism | 4 | 6 | 8 | 1 | 4 | Massive army support |
+| Republic | 0 | 1 | 2 | 2 | 1 | Money cow |
+| Democracy | 0 | 0 | 0 | 3 | 0 | Super money cow |
 
 * Democracy is the biggest money cow and pays for units a lot even at peace time.
 * Republic metroes support minimal 1 police + 1 worker. Anything above is pricey.
