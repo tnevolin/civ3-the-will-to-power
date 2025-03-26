@@ -152,7 +152,7 @@ I found myself using about 1-3 combat units per city at all time. More is usuall
 | ---- | ----: | ----: | ----: | ----: | ----: | ---- |
 | Despotism | 6 | 6 | 6 | 1 | 2 | Good support for early war |
 | Monarchy | 4 | 4 | 4 | 1 | 3 | No war weareness |
-| Feudalism | 4 | 6 | 8 | 2 | 3 | Massive army support |
+| Feudalism | 6 | 7 | 8 | 2 | 3 | Massive army support |
 | Communism | 4 | 5 | 6 | 1 | 4 | Low corruption in large empire |
 | Fascism | 4 | 6 | 8 | 1 | 4 | Massive army support |
 | Republic | 0 | 1 | 2 | 2 | 1 | Money cow |
